@@ -1,0 +1,2900 @@
+{
+    "Info": {
+        "Section": [
+            {
+                "Title": {
+                    "EN": "SYMBOL PAYOUT",
+                    "RU": "ВЫПЛНТН СИМВОЛОВ",
+                    "FR": "PAIEMENT DES SYMBOLES",
+                    "ZH": "符坷支付",
+                    "US": "SYMBOL PAYOUT",
+                    "PT": "PAGAMENTO DE SÝMBOLOS",
+                    "IT": "PAGAMENTO DEI SIMBOLI"
+                },
+                "Type": "Title",
+                "sectionType": "symbolPayout",
+                "layoutStyle": "grid-template-columns: repeat(2, 1fr); gap: 16px;",
+                "SubSection": [
+                    {
+                        "Layout": "grid",
+                        "displayContent": [
+                            {
+                                "Layout": "flex",
+                                "layoutStyle": "flex-direction: row;",
+                                "symbols": [
+                                    {
+                                        "data": [
+                                            {
+                                                "multipliers": "x6",
+                                                "value": "0,40",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x5",
+                                                "value": "0,20",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x4",
+                                                "value": "0,10",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x3",
+                                                "value": "0,05",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "Layout": "flex",
+                                        "layoutStyle": "flex-direction: column;",
+                                        "hasSpecialContent": true
+                                    },
+                                    {
+                                        "data": [
+                                            {
+                                                "multipliers": "x6",
+                                                "value": "0,40",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x5",
+                                                "value": "0,20",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x4",
+                                                "value": "0,10",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x3",
+                                                "value": "0,05",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "Layout": "flex",
+                                        "layoutStyle": "flex-direction: column;",
+                                        "hasSpecialContent": true
+                                    },
+                                    {
+                                        "data": [
+                                            {
+                                                "multipliers": "x6",
+                                                "value": "0,50",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x5",
+                                                "value": "0,30",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x4",
+                                                "value": "0,20",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x3",
+                                                "value": "0,10",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "Layout": "flex",
+                                        "layoutStyle": "flex-direction: column;",
+                                        "hasSpecialContent": true
+                                    },
+                                    {
+                                        "data": [
+                                            {
+                                                "multipliers": "x6",
+                                                "value": "0,50",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x5",
+                                                "value": "0,30",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x4",
+                                                "value": "0,20",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x3",
+                                                "value": "0,10",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "Layout": "flex",
+                                        "layoutStyle": "flex-direction: column;",
+                                        "hasSpecialContent": true
+                                    },
+                                    {
+                                        "data": [
+                                            {
+                                                "multipliers": "x6",
+                                                "value": "0,60",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x5",
+                                                "value": "0,40",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x4",
+                                                "value": "0,30",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x3",
+                                                "value": "0,20",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "Layout": "flex",
+                                        "layoutStyle": "flex-direction: column;",
+                                        "hasSpecialContent": true
+                                    },
+                                    {
+                                        "data": [
+                                            {
+                                                "multipliers": "x6",
+                                                "value": "0,70",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x5",
+                                                "value": "0,50",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x4",
+                                                "value": "0,30",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x3",
+                                                "value": "0,20",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "Layout": "flex",
+                                        "layoutStyle": "flex-direction: column;",
+                                        "hasSpecialContent": true
+                                    },
+                                    {
+                                        "data": [
+                                            {
+                                                "multipliers": "x6",
+                                                "value": "0,80",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x5",
+                                                "value": "0,60",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x4",
+                                                "value": "0,50",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x3",
+                                                "value": "0,40",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "Layout": "flex",
+                                        "layoutStyle": "flex-direction: column;",
+                                        "hasSpecialContent": true
+                                    },
+                                    {
+                                        "data": [
+                                            {
+                                                "multipliers": "x6",
+                                                "value": "0,90",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x5",
+                                                "value": "0,70",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x4",
+                                                "value": "0,50",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x3",
+                                                "value": "0,40",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "Layout": "flex",
+                                        "layoutStyle": "flex-direction: column;",
+                                        "hasSpecialContent": true
+                                    },
+                                    {
+                                        "data": [
+                                            {
+                                                "multipliers": "x6",
+                                                "value": "1,00",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x5",
+                                                "value": "0,80",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x4",
+                                                "value": "0,70",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "multipliers": "x3",
+                                                "value": "0,50",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            null
+                                                        ],
+                                                        "IT": [
+                                                            null
+                                                        ],
+                                                        "RU": [
+                                                            null
+                                                        ],
+                                                        "FR": [
+                                                            null
+                                                        ],
+                                                        "ZH": [
+                                                            null
+                                                        ],
+                                                        "US": [
+                                                            null
+                                                        ],
+                                                        "PT": [
+                                                            null
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "Layout": "flex",
+                                        "layoutStyle": "flex-direction: column;",
+                                        "hasSpecialContent": true
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": {
+                    "EN": "LINE LAYOUT",
+                    "RU": "РНСПОЛОЖЕНИЕ ЛИНИИ",
+                    "FR": "DISPOSITION DES LIGNES",
+                    "ZH": "线路布局",
+                    "US": "LINE LAYOUT",
+                    "PT": "LAYOUT DA LINHA",
+                    "IT": "LAYOUT DELLE LINEE"
+                },
+                "sectionType": "lineLayout",
+                "Type": "Title",
+                "SubSection": [
+                    {
+                        "Layout": "grid",
+                        "displayContent": [
+                            {
+                                "Layout": "flex",
+                                "layoutStyle": "flex-direction: row;",
+                                "lineRows": 4,
+                                "lineCols": 6,
+                                "lines": {
+                                    "formation": [
+                                        [
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1
+                                        ],
+                                        [
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2
+                                        ],
+                                        [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ],
+                                        [
+                                            3,
+                                            3,
+                                            3,
+                                            3,
+                                            3,
+                                            3
+                                        ],
+                                        [
+                                            1,
+                                            2,
+                                            3,
+                                            3,
+                                            2,
+                                            1
+                                        ],
+                                        [
+                                            2,
+                                            1,
+                                            0,
+                                            0,
+                                            1,
+                                            2
+                                        ],
+                                        [
+                                            0,
+                                            1,
+                                            2,
+                                            2,
+                                            1,
+                                            0
+                                        ],
+                                        [
+                                            3,
+                                            2,
+                                            1,
+                                            1,
+                                            2,
+                                            3
+                                        ],
+                                        [
+                                            0,
+                                            0,
+                                            1,
+                                            2,
+                                            3,
+                                            3
+                                        ],
+                                        [
+                                            3,
+                                            3,
+                                            2,
+                                            1,
+                                            0,
+                                            0
+                                        ],
+                                        [
+                                            0,
+                                            1,
+                                            0,
+                                            1,
+                                            0,
+                                            1
+                                        ],
+                                        [
+                                            3,
+                                            2,
+                                            3,
+                                            2,
+                                            3,
+                                            2
+                                        ],
+                                        [
+                                            1,
+                                            2,
+                                            1,
+                                            2,
+                                            1,
+                                            2
+                                        ],
+                                        [
+                                            2,
+                                            1,
+                                            2,
+                                            1,
+                                            2,
+                                            1
+                                        ],
+                                        [
+                                            2,
+                                            3,
+                                            3,
+                                            3,
+                                            3,
+                                            2
+                                        ],
+                                        [
+                                            1,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            1
+                                        ],
+                                        [
+                                            1,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            1
+                                        ],
+                                        [
+                                            2,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            2
+                                        ],
+                                        [
+                                            0,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            0
+                                        ],
+                                        [
+                                            3,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            3
+                                        ],
+                                        [
+                                            0,
+                                            0,
+                                            1,
+                                            1,
+                                            0,
+                                            0
+                                        ],
+                                        [
+                                            3,
+                                            3,
+                                            2,
+                                            2,
+                                            3,
+                                            3
+                                        ],
+                                        [
+                                            2,
+                                            2,
+                                            3,
+                                            3,
+                                            2,
+                                            2
+                                        ],
+                                        [
+                                            1,
+                                            1,
+                                            0,
+                                            0,
+                                            1,
+                                            1
+                                        ],
+                                        [
+                                            0,
+                                            3,
+                                            0,
+                                            3,
+                                            0,
+                                            3
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        "lineTextContent": [
+                            {
+                                "textSize": "1.5em",
+                                "listType": "p",
+                                "content": {
+                                    "EN": [
+                                        "All winning combinations are paid from left to right except the FREE SPINS. In the case where the WILD symbol creates multiple prize combinations within the same winning line, only the most beneficial win for the player is awarded. In case of combinations consisting exclusively of WILD symbols, it will be paid as the highest symbol...",
+                                        "Any malfunctions will cancel all bets and payouts."
+                                    ],
+                                    "IT": [
+                                        "Tutte le combinazioni vincenti vengono pagate da sinistra a destra eccetto FREE SPINS. Nel caso in cui il simbolo WILD crei più combinazioni vincenti all'interno della stessa linea vincente, verrà assegnata solo la vincita più vantaggiosa per il giocatore. In caso di combinazioni composte esclusivamente da simboli WILD, verrà pagata come il simbolo più alto...",
+                                        "Qualsiasi malfunzionamento annullerà tutte le scommesse e i pagamenti."
+                                    ],
+                                    "RU": [
+                                        "Вѝе выигрышные комбинации оплачиваютѝѝ ѝлева направо, за иѝключением FREE SPINS. В ѝлучае, еѝли ѝимвол WILD ѝоздает неѝколько выигрышных комбинаций в пределах одной и той же выигрышной линии, будет начиѝлена только наиболее выгоднаѝ победа длѝ игрока. В ѝлучае комбинаций, ѝоѝтоѝщих иѝключительно из ѝимволов WILD, она будет оплачена как наивыѝший ѝимвол...",
+                                        "Любые ѝбои отменѝт вѝе ѝтавки и выплаты."
+                                    ],
+                                    "FR": [
+                                        "Toutes les combinaisons gagnantes sont payées de gauche à droite, sauf FREE SPINS. Dans le cas où le symbole WILD crée plusieurs combinaisons gagnantes sur la même ligne de gain, seule la victoire la plus bénéfique pour le joueur est attribuée. En cas de combinaisons composées exclusivement de symboles WILD, elle sera payée comme le symbole le plus élevé...",
+                                        "Tout dysfonctionnement annulera toutes les mises et les gains."
+                                    ],
+                                    "ZH": [
+                                        "除了 FREE SPINS 外，所有获奖组坈都是从左到坳支付。如果野外符坷在坌一条获奖线上创建多个奖励组坈，则仅授予玩家最有利的胜利。如果组坈仅由野外符坷组戝，则将按照最高符坷支付...",
+                                        "任何故障都将坖消所有的投注和支付。"
+                                    ],
+                                    "US": [
+                                        "All winning combinations are paid from left to right except FREE SPINS. In the case where the WILD symbol creates multiple prize combinations within the same winning line, only the most beneficial win for the player is awarded. In case of combinations consisting exclusively of WILD symbols, it will be paid as the highest symbol...",
+                                        "Any malfunctions will cancel all bets and payouts."
+                                    ],
+                                    "PT": [
+                                        "Todas as combinações vencedoras são pagas da esquerda para a direita, exceto FREE SPINS. No caso em que o símbolo WILD cria múltiplas combinações vencedoras dentro da mesma linha de vitória, apenas a vitória mais benéfica para o jogador é premiada. No caso de combinações consistindo exclusivamente de símbolos WILD, será pago como o símbolo mais alto...",
+                                        "Quaisquer falhas cancelarão todas as apostas e pagamentos."
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": {
+                    "EN": "RULES",
+                    "RU": "ПРНВИЛН",
+                    "FR": "RÈGLES",
+                    "ZH": "规则",
+                    "US": "RULES",
+                    "PT": "REGRAS",
+                    "IT": "REGOLE"
+                },
+                "sectionType": "Rules",
+                "Type": "Title",
+                "SubSection": [
+                    {
+                        "Layout": "flex",
+                        "displayContent": [
+                            {
+                                "Layout": "flex",
+                                "listType": "p",
+                                "layoutStyle": "flex-direction: row;",
+                                "textAlignment": "center",
+                                "wording": [
+                                    {
+                                        "valueType": "puntataMinima",
+                                        "Type": "text",
+                                        "content": {
+                                            "EN": [
+                                                "Minimum Bet:"
+                                            ],
+                                            "IT": [
+                                                "Puntata Minima:"
+                                            ],
+                                            "RU": [
+                                                "Минимальнаѝ ѝтавка:"
+                                            ],
+                                            "ZH": [
+                                                "最低投注："
+                                            ],
+                                            "PT": [
+                                                "Aposta Mínima:"
+                                            ]
+                                        },
+                                        "value": "0.20"
+                                    },
+                                    {
+                                        "valueType": "puntataMaxima",
+                                        "Type": "text",
+                                        "content": {
+                                            "EN": [
+                                                "Max Bet:"
+                                            ],
+                                            "IT": [
+                                                "Puntata Massima:"
+                                            ],
+                                            "RU": [
+                                                "Макѝимальнаѝ ѝтавка:"
+                                            ],
+                                            "ZH": [
+                                                "最大投注："
+                                            ],
+                                            "PT": [
+                                                "Aposta Máxima:"
+                                            ]
+                                        },
+                                        "value": " 10.00"
+                                    },
+                                    {
+                                        "valueType": "puntataMinimaGoldenBet",
+                                        "Type": "text",
+                                        "content": {
+                                            "EN": [
+                                                "Minimum GOLDEN Bet:"
+                                            ],
+                                            "IT": [
+                                                "Puntata GOLDEN Minima:"
+                                            ],
+                                            "RU": [
+                                                "Минимальнаѝ GOLDEN ѝтавка:"
+                                            ],
+                                            "ZH": [
+                                                "最低投注："
+                                            ],
+                                            "PT": [
+                                                "Aposta GOLDEN Mínima:"
+                                            ]
+                                        },
+                                        "value": " 1.40"
+                                    },
+                                    {
+                                        "valueType": "puntataMaximaGoldenBet",
+                                        "Type": "text",
+                                        "content": {
+                                            "EN": [
+                                                "Max GOLDEN bet:"
+                                            ],
+                                            "IT": [
+                                                "PuntataGOLDEN Massima:"
+                                            ],
+                                            "RU": [
+                                                "Макѝимальнаѝ GOLDEN ѝтавка:"
+                                            ],
+                                            "ZH": [
+                                                "最大投注："
+                                            ],
+                                            "PT": [
+                                                "Aposta GOLDEN Máxima:"
+                                            ]
+                                        },
+                                        "value": "70.00"
+                                    },
+                                    {
+                                        "valueType": "maxWinValue",
+                                        "Type": "text",
+                                        "content": {
+                                            "EN": [
+                                                "The Max win is "
+                                            ],
+                                            "IT": [
+                                                "La vincita massima è "
+                                            ],
+                                            "RU": [
+                                                "Макѝимальный выигрыш ѝоѝтавлѝет "
+                                            ],
+                                            "ZH": [
+                                                "最大赢额为 "
+                                            ],
+                                            "PT": [
+                                                "O ganho máximo é "
+                                            ]
+                                        },
+                                        "value": " 25,000"
+                                    },
+                                    {
+                                        "valueType": "rtpValue",
+                                        "Type": "text",
+                                        "content": {
+                                            "EN": [
+                                                "This game has a theoretical RTP of:"
+                                            ],
+                                            "IT": [
+                                                "Questo gioco ha un RTP teorico di:"
+                                            ],
+                                            "RU": [
+                                                "Теоретичеѝкий процент возврата ѝтой игры ѝоѝтавлѝет:"
+                                            ],
+                                            "ZH": [
+                                                "此游戝的睆论RTP为："
+                                            ],
+                                            "PT": [
+                                                "Este jogo tem um RTP teórico de:"
+                                            ]
+                                        },
+                                        "value": {
+                                            "EN": [
+                                                "LOW VOTALITY: 93,69%",
+                                                "MEDIUM VOLATILITY: 93,70%",
+                                                "HIGH VOLATILITY: 93,73%",
+                                                "GOLDEN BET: 93,75%"
+                                            ],
+                                            "IT": [
+                                                "LOW VOTALITY: 93,69%",
+                                                "MEDIUM VOLATILITY: 93,70%",
+                                                "HIGH VOLATILITY: 93,73%",
+                                                "GOLDEN BET: 93,75%"
+                                            ],
+                                            "RU": [
+                                                "LOW VOTALITY: 93,69%",
+                                                "MEDIUM VOLATILITY: 93,70%",
+                                                "HIGH VOLATILITY: 93,73%",
+                                                "GOLDEN BET: 93,75%"
+                                            ],
+                                            "ZH": [
+                                                "LOW VOTALITY: 93,69%",
+                                                "MEDIUM VOLATILITY: 93,70%",
+                                                "HIGH VOLATILITY: 93,73%",
+                                                "GOLDEN BET: 93,75%"
+                                            ],
+                                            "PT": [
+                                                "LOW VOTALITY: 93,69%",
+                                                "MEDIUM VOLATILITY: 93,70%",
+                                                "HIGH VOLATILITY: 93,73%",
+                                                "GOLDEN BET: 93,75%"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "Type": "text",
+                                        "content": {
+                                            "EN": [
+                                                "In case of malfunction, the play and the eventual win will be canceled."
+                                            ],
+                                            "IT": [
+                                                "In caso di malfunzionamento, il gioco e l'eventuale vittoria saranno annullati."
+                                            ],
+                                            "RU": [
+                                                "В ѝлучае ѝбоѝ игра и возможный выигрыш будут аннулированы."
+                                            ],
+                                            "ZH": [
+                                                "如果坑生故障，游戝和最终赢利将被坖消。"
+                                            ],
+                                            "PT": [
+                                                "Em caso de mau funcionamento, o jogo e a eventual vitória serão cancelados."
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "valueType": "maxWinValueLimit",
+                                        "Type": "text",
+                                        "content": {
+                                            "EN": [
+                                                "The maximum value of the prize is limited to 25.000x the bet in both the main game and FREE SPINS. If the prize of the total rounds hits 5,000x the bet, the round finishes. The prize is awarded and all the FREE SPINS left are removed."
+                                            ],
+                                            "IT": [
+                                                "Il valore massimo del premio è limitato a 25.000x volte la puntata sia nel gioco principale che nei FREE SPINS. Se il premio delle giocate totali raggiunge 5.000 volte la puntata, la partita termina. Il premio viene assegnato e tutti i FREE SPINS rimasti vengono rimossi."
+                                            ],
+                                            "RU": [
+                                                "Макѝимальнаѝ ѝумма выигрыша ограничена 25.000x раз ѝтавка как в оѝновной игре, так и в FREE SPINS. Еѝли выигрыш от общего количеѝтва ѝпинов доѝтигает 5 000 раз ѝтавка, раунд завершаетѝѝ. Выигрыш начиѝлѝетѝѝ, и вѝе оѝтавшиеѝѝ FREE SPINS удалѝютѝѝ."
+                                            ],
+                                            "FR": [
+                                                "La valeur maximale du prix est limitée à 25.000x fois la mise à la fois dans le jeu principal et dans les FREE SPINS. Si le prix des tours totaux atteint 5 000 fois la mise, le tour se termine. Le prix est attribué et tous les FREE SPINS restants sont supprimés."
+                                            ],
+                                            "ZH": [
+                                                "奖金的最大值在主游戝和 FREE SPINS 中均陝制为 25.000x 倝的赌注。如果总轮次的奖金达到了 5,000 倝的赌注，游戝将结束。奖金将被授予，并且所有剩余的 FREE SPINS 将被移除。"
+                                            ],
+                                            "US": [
+                                                "The maximum value of the prize is limited to 25.000x the bet in both the main game and FREE SPINS. If the prize of the total rounds hits 5,000x the bet, the round finishes. The prize is awarded and all the FREE SPINS left are removed."
+                                            ],
+                                            "PT": [
+                                                "O valor máximo do prêmio é limitado a 25.000x vezes a aposta, tanto no jogo principal quanto nos FREE SPINS. Se o prêmio dos giros totais atingir 5.000 vezes a aposta, o giro termina. O prêmio é concedido e todos os FREE SPINS restantes são removidos."
+                                            ]
+                                        },
+                                        "value": "25000"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": {
+                    "EN": "V-POWER",
+                    "RU": "V-POWER",
+                    "FR": "V-POWER",
+                    "ZH": "V-POWER",
+                    "US": "V-POWER",
+                    "PT": "V-POWER",
+                    "IT": "V-POWER"
+                },
+                "sectionType": "Feature",
+                "Type": "Title",
+                "SubSection": [
+                    {
+                        "typeDisplay": "flex",
+                        "direction": "column",
+                        "justifyContent": "center",
+                        "features": [
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "column",
+                                "featureContent": [
+                                    {
+                                        "type": "plural_text",
+                                        "textAlignment": "center",
+                                        "content": {
+                                            "EN": [
+                                                "Using the V-POWER feature during the main game allows players to customize the game's volatility, offering three distinct levels: LOW, MEDIUM, and HIGH."
+                                            ],
+                                            "IT": [
+                                                "Utilizzando la funzione V-POWER durante il gioco principale, i giocatori possono personalizzare la volatilità del gioco, offrendo tre livelli distinti: BASSO, MEDIO e ALTO."
+                                            ],
+                                            "RU": [
+                                                "Использование функции V-POWER во время основной игры позволяет игрокам настраивать волатильность игры, предлагая три различных уровня: НИЗКИЙ, СРЕДНИЙ и ВЫСОКИЙ."
+                                            ],
+                                            "FR": [
+                                                "En utilisant la fonction V-POWER pendant le jeu principal, les joueurs peuvent personnaliser la volatilité du jeu, offrant trois niveaux distincts : FAIBLE, MOYEN et ÉLEVÉ."
+                                            ],
+                                            "ZH": [
+                                                "在主游戏期间使用 V-POWER 功能，玩家可以自定义游戏的波动性，提供三个不同的级别：低、中和高。"
+                                            ],
+                                            "US": [
+                                                "Using the V-POWER feature during the main game allows players to customize the game's volatility, offering three distinct levels: LOW, MEDIUM, and HIGH."
+                                            ],
+                                            "PT": [
+                                                "Ao utilizar a funcionalidade V-POWER durante o jogo principal, os jogadores podem personalizar a volatilidade do jogo, oferecendo três níveis distintos: BAIXO, MÉDIO e ALTO."
+                                            ]
+                                        },
+                                        "direction": "column",
+                                        "customFormat": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "row",
+                                "featureContent": [
+                                    {
+                                        "type": "img_text",
+                                        "imageType": "big",
+                                        "divMaxWith": "smallMaxWidth",
+                                        "url": [
+                                            "images/Settings/Assets/LOW.png"
+                                        ],
+                                        "textAlignment": "center",
+                                        "hasSpecialData": true,
+                                        "data": [
+                                            {
+                                                "multipliers": "",
+                                                "value": "",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            "This mode combines elements of HIGH and LOW volatility, catering to players aiming for substantial rewards with reasonable frequency"
+                                                        ],
+                                                        "IT": [
+                                                            "Questo modo combina elementi di alta e bassa volatilità, rivolgendosi ai giocatori che mirano a ricompense sostanziali con una frequenza ragionevole."
+                                                        ],
+                                                        "RU": [
+                                                            "Этот режим сочетает в себе элементы высокой и низкой волатильности, обеспечивая игроков, стремящихся к значительным наградам с разумной частотой."
+                                                        ],
+                                                        "FR": [
+                                                            "Ce mode combine des éléments de volatilité élevée et faible, s'adressant aux joueurs visant des récompenses substantielles avec une fréquence raisonnable."
+                                                        ],
+                                                        "ZH": [
+                                                            "此模式结合了高和低波动性的元素，适合寻求合理频率下丰厚回报的玩家。"
+                                                        ],
+                                                        "US": [
+                                                            "This mode combines elements of HIGH and LOW volatility, catering to players aiming for substantial rewards with reasonable frequency"
+                                                        ],
+                                                        "PT": [
+                                                            "Este modo combina elementos de alta e baixa volatilidade, atendendo aos jogadores que buscam recompensas substanciais com uma frequência razoável."
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "direction": "column",
+                                        "contentDirection": "column"
+                                    },
+                                    {
+                                        "type": "img_text",
+                                        "imageType": "big",
+                                        "divMaxWith": "smallMaxWidth",
+                                        "url": [
+                                            "images/Settings/Assets/MEDIUM.png"
+                                        ],
+                                        "textAlignment": "center",
+                                        "hasSpecialData": true,
+                                        "data": [
+                                            {
+                                                "multipliers": "",
+                                                "value": "",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            "In this settings, payouts occur more frequently, typically in smaller ammounts, making it ideal for players seeking longer gaming sessions."
+                                                        ],
+                                                        "IT": [
+                                                            "In questa configurazione, le vincite avvengono più frequentemente, di solito in importi più piccoli, rendendola ideale per i giocatori che cercano sessioni di gioco più lunghe."
+                                                        ],
+                                                        "RU": [
+                                                            "В этом режиме выплаты происходят чаще, обычно в небольших суммах, что делает его идеальным для игроков, которые предпочитают более длительные игровые сессии."
+                                                        ],
+                                                        "FR": [
+                                                            "Dans ce paramètre, les paiements se produisent plus fréquemment, généralement en petites quantités, ce qui en fait un choix idéal pour les joueurs recherchant des sessions de jeu plus longues."
+                                                        ],
+                                                        "ZH": [
+                                                            "在这种设置下，支付发生得更频繁，通常是较小的金额，非常适合寻找更长游戏时间的玩家。"
+                                                        ],
+                                                        "US": [
+                                                            "In this settings, payouts occur more frequently, typically in smaller ammounts, making it ideal for players seeking longer gaming sessions."
+                                                        ],
+                                                        "PT": [
+                                                            "Nessa configuração, os pagamentos ocorrem com mais frequência, geralmente em quantidades menores, tornando-a ideal para jogadores que procuram sessões de jogo mais longas."
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "direction": "column",
+                                        "contentDirection": "column"
+                                    },
+                                    {
+                                        "type": "img_text",
+                                        "imageType": "big",
+                                        "divMaxWith": "smallMaxWidth",
+                                        "url": [
+                                            "images/Settings/Assets/HIGH.png"
+                                        ],
+                                        "textAlignment": "center",
+                                        "hasSpecialData": true,
+                                        "data": [
+                                            {
+                                                "multipliers": "",
+                                                "value": "",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            "Players have the opportunity to win big prizes, though less often than in LOW volatility. It's suitable for risk-takers aiming for significant wins."
+                                                        ],
+                                                        "IT": [
+                                                            "In questa configurazione, le vincite avvengono più frequentemente, di solito in importi più piccoli, rendendola ideale per i giocatori che cercano sessioni di gioco più lunghe."
+                                                        ],
+                                                        "RU": [
+                                                            "У игроков есть возможность выиграть крупные призы, хотя и реже, чем при низкой волатильности. Это подходит для рискованных игроков, нацеленных на значительные победы."
+                                                        ],
+                                                        "FR": [
+                                                            "Les joueurs ont l'opportunité de remporter de gros prix, bien que moins souvent que dans la volatilité faible. C'est adapté aux amateurs de risques visant des gains importants."
+                                                        ],
+                                                        "ZH": [
+                                                            "玩家有机会赢得大奖，尽管比低波动性时更少。适合寻求重大胜利的冒险家。"
+                                                        ],
+                                                        "US": [
+                                                            "Players have the opportunity to win big prizes, though less often than in LOW volatility. It's suitable for risk-takers aiming for significant wins."
+                                                        ],
+                                                        "PT": [
+                                                            "Os jogadores têm a oportunidade de ganhar grandes prêmios, embora menos frequentemente do que na baixa volatilidade. É adequado para os apostadores que buscam vitórias significativas."
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "direction": "column",
+                                        "contentDirection": "column"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": {
+                    "EN": "SUPER STACK",
+                    "RU": "SUPER STACK",
+                    "FR": "SUPER STACK",
+                    "ZH": "SUPER STACK",
+                    "US": "SUPER STACK",
+                    "PT": "SUPER STACK",
+                    "IT": "SUPER STACK"
+                },
+                "sectionType": "Feature",
+                "Type": "Title",
+                "SubSection": [
+                    {
+                        "typeDisplay": "flex",
+                        "direction": "column",
+                        "justifyContent": "center",
+                        "features": [
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "column",
+                                "featureContent": [
+                                    {
+                                        "type": "plural_text",
+                                        "textAlignment": "center",
+                                        "content": {
+                                            "EN": [
+                                                "When a stacked symbol lands on a reel, it can occupy two or more consecutive positions vertically. This means that a single pin can result in multiple instances of the same symbol, appearing in a reel. These symbols usually come in groups of 2,3 or 4 symbols."
+                                            ],
+                                            "IT": [
+                                                "Quando un simbolo in stack atterra su un rullo, può occupare due o più posizioni consecutive verticalmente. Questo significa che un singolo spin può risultare in molteplici istanze dello stesso simbolo, apparendo in un rullo. Questi simboli di solito arrivano in gruppi di 2, 3 o 4 simboli."
+                                            ],
+                                            "RU": [
+                                                "Когда стопка символов оказывается на барабане, она может занимать две или более последовательных позиций по вертикали. Это означает, что один спин может привести к появлению нескольких экземпляров одного и того же символа на одном барабане. Эти символы обычно появляются группами из 2, 3 или 4 символов."
+                                            ],
+                                            "FR": [
+                                                "Lorsqu'un symbole empilé atterrit sur un rouleau, il peut occuper deux positions ou plus consécutives verticalement. Cela signifie qu'un seul tour peut entraîner plusieurs instances du même symbole, apparaissant sur un rouleau. Ces symboles apparaissent généralement par groupes de 2, 3 ou 4 symboles."
+                                            ],
+                                            "ZH": [
+                                                "当叠加符号落在卷轴上时，它可以垂直占据两个或更多连续位置。这意味着单个旋转可以导致同一符号的多个实例出现在一个卷轴上。这些符号通常以2、3或4个符号的组合出现。"
+                                            ],
+                                            "US": [
+                                                "When a stacked symbol lands on a reel, it can occupy two or more consecutive positions vertically. This means that a single pin can result in multiple instances of the same symbol, appearing in a reel. These symbols usually come in groups of 2,3 or 4 symbols."
+                                            ],
+                                            "PT": [
+                                                "Quando um símbolo empilhado pousa em um rolo, ele pode ocupar duas ou mais posições consecutivas verticalmente. Isso significa que uma única rodada pode resultar em várias instâncias do mesmo símbolo, aparecendo em um rolo. Esses símbolos geralmente vêm em grupos de 2, 3 ou 4 símbolos."
+                                            ]
+                                        },
+                                        "direction": "column",
+                                        "customFormat": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "row",
+                                "featureContent": [
+                                    {
+                                        "type": "img",
+                                        "imageType": "big",
+                                        "divMaxWith": "smallMaxWidth",
+                                        "url": [
+                                            "images/Settings/Assets/SUPER_STACK.png"
+                                        ],
+                                        "direction": "row"
+                                    },
+                                    {
+                                        "type": "plural_text",
+                                        "textAlignment": "center",
+                                        "content": {
+                                            "EN": [
+                                                "A SUPER STACK occurs when any symbol is heavily stacked. This can occur in any game phase. The SUPER STACK progresses accordingly with the chosen volatility:",
+                                                "LOW volatility: Features Stacks of Flash Gordon symbols.",
+                                                "MEDIUM volatility: Showcase stacks of Flash Gordon symbols and other symbol stacks.",
+                                                "HIGH volatility: Can have stacks of all symbols"
+                                            ],
+                                            "IT": [
+                                                "Una SUPER STACK si verifica quando un simbolo è pesantemente impilato. Questo può accadere in qualsiasi fase di gioco. La SUPER STACK progredisce di conseguenza con la volatilità scelta:",
+                                                "Volatilità BASSA: Caratteristiche Stack di simboli di Flash Gordon.",
+                                                "Volatilità MEDIA: Mostra stack di simboli di Flash Gordon e altri stack di simboli.",
+                                                "Volatilità ALTA: Può avere stack di tutti i simboli."
+                                            ],
+                                            "RU": [
+                                                "СУПЕР СТЭК происходит, когда какой-либо символ сильно накапливается. Это может происходить на любой фазе игры. СУПЕР СТЭК прогрессирует соответственно выбранной волатильности:",
+                                                "Низкая волатильность: Характеристики стеков символов Флэш Гордона.",
+                                                "Средняя волатильность: Показывает стеки символов Флэш Гордона и другие стеки символов.",
+                                                "Высокая волатильность: Может иметь стеки всех символов."
+                                            ],
+                                            "FR": [
+                                                "Un SUPER STACK se produit lorsqu'un symbole est fortement empilé. Cela peut se produire à n'importe quelle phase de jeu. Le SUPER STACK progresse en fonction de la volatilité choisie :",
+                                                "Volatilité FAIBLE : Caractéristiques Stacks de symboles Flash Gordon.",
+                                                "Volatilité MOYENNE : Affiche des stacks de symboles Flash Gordon et d'autres stacks de symboles.",
+                                                "Volatilité ÉLEVÉE : Peut avoir des stacks de tous les symboles."
+                                            ],
+                                            "ZH": [
+                                                "当任何符号被大量堆叠时，就会出现SUPER STACK。这可以在任何游戏阶段发生。SUPER STACK随所选择的波动性相应地发展：",
+                                                "低波动性：具有Flash Gordon符号的堆栈特征。",
+                                                "中等波动性：展示Flash Gordon符号和其他符号堆栈。",
+                                                "高波动性：可以有所有符号的堆栈。"
+                                            ],
+                                            "US": [
+                                                "A SUPER STACK occurs when any symbol is heavily stacked. This can occur in any game phase. The SUPER STACK progresses accordingly with the chosen volatility:",
+                                                "LOW volatility: Features Stacks of Flash Gordon symbols.",
+                                                "MEDIUM volatility: Showcase stacks of Flash Gordon symbols and other symbol stacks.",
+                                                "HIGH volatility: Can have stacks of all symbols"
+                                            ],
+                                            "PT": [
+                                                "Uma SUPER STACK ocorre quando qualquer símbolo é empilhado em grande quantidade. Isso pode ocorrer em qualquer fase do jogo. A SUPER STACK progride de acordo com a volatilidade escolhida:",
+                                                "Volatilidade BAIXA: Apresenta pilhas de símbolos do Flash Gordon.",
+                                                "Volatilidade MÉDIA: Mostra pilhas de símbolos do Flash Gordon e outras pilhas de símbolos.",
+                                                "Volatilidade ALTA: Pode ter pilhas de todos os símbolos."
+                                            ]
+                                        },
+                                        "direction": "column",
+                                        "customFormat": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": {
+                    "EN": "FEATURES",
+                    "RU": "FEATURES",
+                    "FR": "FEATURES",
+                    "ZH": "FEATURES",
+                    "US": "FEATURES",
+                    "PT": "FEATURES",
+                    "IT": "FEATURES"
+                },
+                "sectionType": "Feature",
+                "Type": "Title",
+                "SubSection": [
+                    {
+                        "typeDisplay": "flex",
+                        "direction": "row",
+                        "justifyContent": "center",
+                        "features": [
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "column",
+                                "featureContent": [
+                                    {
+                                        "type": "img",
+                                        "divMaxWith": "smallMaxWidth",
+                                        "imageType": "big",
+                                        "wrap": "wrap",
+                                        "url": [
+                                            "images/Settings/Symbol/9.png"
+                                        ],
+                                        "direction": "row"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "textAlignment": "center",
+                                        "content": {
+                                            "EN": [
+                                                "Substitutes all symbols, except the SCATTER symbol."
+                                            ],
+                                            "IT": [
+                                                "Sostituisce tutti i simboli, tranne il simbolo SCATTER."
+                                            ],
+                                            "RU": [
+                                                "Заменѝет вѝе ѝимволы, кроме ѝимвола SCATTER."
+                                            ],
+                                            "FR": [
+                                                "Remplace tous les symboles, sauf le symbole SCATTER."
+                                            ],
+                                            "ZH": [
+                                                "替杢所有符坷，除了 SCATTER。"
+                                            ],
+                                            "US": [
+                                                "Substitutes all symbols, except the SCATTER."
+                                            ],
+                                            "PT": [
+                                                "Substitui todos os símbolos, exceto o símbolo SCATTER."
+                                            ]
+                                        },
+                                        "direction": "column",
+                                        "customFormat": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "column",
+                                "featureContent": [
+                                    {
+                                        "type": "img_text",
+                                        "imageType": "big",
+                                        "divMaxWith": "smallMaxWidth",
+                                        "wrap": "wrap",
+                                        "url": [
+                                            "images/Settings/Symbol/10.png"
+                                        ],
+                                        "textAlignment": "center",
+                                        "hasSpecialData": false,
+                                        "direction": "row",
+                                        "contentDirection": "row"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "textAlignment": "center",
+                                        "content": {
+                                            "EN": [
+                                                "Flash's motorcycle has the ability to shoot randommly at symbols, converting them into WILD symbols."
+                                            ],
+                                            "IT": [
+                                                "La motocicletta di Flash ha la capacità di sparare casualmente ai simboli, trasformandoli in simboli WILD."
+                                            ],
+                                            "RU": [
+                                                "Мотоцикл Флэша способен стрелять случайным образом по символам, превращая их в символы WILD."
+                                            ],
+                                            "FR": [
+                                                "La moto de Flash a la capacité de tirer aléatoirement sur des symboles, les transformant en symboles WILD."
+                                            ],
+                                            "ZH": [
+                                                "Flash的摩托车有能力随机射击符号，将它们转换为WILD符号。"
+                                            ],
+                                            "US": [
+                                                "Flash's motorcycle has the ability to shoot randommly at symbols, converting them into WILD symbols."
+                                            ],
+                                            "PT": [
+                                                "A motocicleta do Flash tem a capacidade de disparar aleatoriamente em símbolos, convertendo-os em símbolos WILD."
+                                            ]
+                                        },
+                                        "direction": "column",
+                                        "customFormat": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": {
+                    "EN": "FLASH SPINS",
+                    "RU": "FLASH SPINS",
+                    "FR": "FLASH SPINS",
+                    "ZH": "FLASH SPINS",
+                    "US": "FLASH SPINS",
+                    "PT": "FLASH SPINS",
+                    "IT": "FLASH SPINS"
+                },
+                "sectionType": "Feature",
+                "Type": "Title",
+                "SubSection": [
+                    {
+                        "typeDisplay": "flex",
+                        "direction": "column",
+                        "justifyContent": "center",
+                        "features": [
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "column",
+                                "featureContent": [
+                                    {
+                                        "type": "img",
+                                        "divMaxWith": "smallMaxWidth",
+                                        "imageType": "big",
+                                        "wrap": "wrap",
+                                        "url": [
+                                            "images/Settings/Symbol/10.png"
+                                        ],
+                                        "direction": "row"
+                                    }
+                                ]
+                            },
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "column",
+                                "featureContent": [
+                                    {
+                                        "type": "plural_text",
+                                        "textAlignment": "center",
+                                        "content": {
+                                            "EN": [
+                                                "Lading 4 to 6 SCATTERS symbols in the main game, triggers the FLASH SPINS.",
+                                                "Depending on the number of SCATTERS, several SPECIAL REELS will be activated. WILD Symbols will only receive a multiplier if they land on these SPECIAL REELS.",
+                                                "4 SCATTERS will activate SPECIAL REELS 3 and 4.",
+                                                "5 SCATTERS will activate SPECIAL REELS 2 to 5.",
+                                                "6 SCATTERS activate all 6 SPECIAL REELS."
+                                            ],
+                                            "IT": [
+                                                "Atterrare 4-6 simboli SCATTER nel gioco principale, attiva le FLASH SPINS.",
+                                                "A seconda del numero di SCATTER, verranno attivati diversi rulli SPECIALI. I simboli WILD riceveranno un moltiplicatore solo se atterrano su questi rulli SPECIALI.",
+                                                "4 SCATTER attiveranno i rulli SPECIALI 3 e 4.",
+                                                "5 SCATTER attiveranno i rulli SPECIALI dal 2 al 5.",
+                                                "6 SCATTER attivano tutti e 6 i rulli SPECIALI."
+                                            ],
+                                            "RU": [
+                                                "При появлении от 4 до 6 символов SCATTER в основной игре запускаются FLASH SPINS.",
+                                                "В зависимости от количества символов SCATTER будут активированы различные СПЕЦИАЛЬНЫЕ БАРАБАНЫ. Символы WILD будут иметь множитель только при попадании на эти СПЕЦИАЛЬНЫЕ БАРАБАНЫ.",
+                                                "4 SCATTER активируют СПЕЦИАЛЬНЫЕ БАРАБАНЫ 3 и 4.",
+                                                "5 SCATTER активируют СПЕЦИАЛЬНЫЕ БАРАБАНЫ с 2 по 5.",
+                                                "6 SCATTER активируют все 6 СПЕЦИАЛЬНЫЕ БАРАБАНЫ."
+                                            ],
+                                            "FR": [
+                                                "L'obtention de 4 à 6 symboles SCATTERS dans le jeu principal déclenche les FLASH SPINS.",
+                                                "Selon le nombre de symboles SCATTERS, plusieurs ROULEAUX SPÉCIAUX seront activés. Les symboles WILD ne recevront un multiplicateur que s'ils atterrissent sur ces ROULEAUX SPÉCIAUX.",
+                                                "4 SCATTERS activeront les ROULEAUX SPÉCIAUX 3 et 4.",
+                                                "5 SCATTERS activeront les ROULEAUX SPÉCIAUX 2 à 5.",
+                                                "6 SCATTERS activent tous les 6 ROULEAUX SPÉCIAUX."
+                                            ],
+                                            "ZH": [
+                                                "在主游戏中，出现4到6个SCATTERS符号将触发FLASH SPINS。",
+                                                "根据SCATTERS的数量，将激活多个特殊轴。只有当WILD符号落在这些特殊轴上时，才会获得乘数。",
+                                                "4个SCATTERS将激活特殊轴3和4。",
+                                                "5个SCATTERS将激活特殊轴2到5。",
+                                                "6个SCATTERS将激活所有6个特殊轴。"
+                                            ],
+                                            "US": [
+                                                "Lading 4 to 6 SCATTERS symbols in the main game, triggers the FLASH SPINS.",
+                                                "Depending on the number of SCATTERS, several SPECIAL REELS will be activated. WILD Symbols will only receive a multiplier if they land on these SPECIAL REELS.",
+                                                "4 SCATTERS will activate SPECIAL REELS 3 and 4.",
+                                                "5 SCATTERS will activate SPECIAL REELS 2 to 5.",
+                                                "6 SCATTERS activate all 6 SPECIAL REELS."
+                                            ],
+                                            "PT": [
+                                                "Aterrando de 4 a 6 símbolos SCATTERS no jogo principal, aciona as FLASH SPINS.",
+                                                "Dependendo do número de SCATTERS, vários ROLOS ESPECIAIS serão ativados. Os Símbolos WILD só receberão um multiplicador se caírem nesses ROLOS ESPECIAIS.",
+                                                "4 SCATTERS ativarão os ROLOS ESPECIAIS 3 e 4.",
+                                                "5 SCATTERS ativarão os ROLOS ESPECIAIS de 2 a 5.",
+                                                "6 SCATTERS ativam todos os 6 ROLOS ESPECIAIS."
+                                            ]
+                                        },
+                                        "direction": "column",
+                                        "customFormat": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": {
+                    "EN": "SELEZIONE FLASH SPINS",
+                    "RU": "SELEZIONE FLASH SPINS",
+                    "FR": "SELEZIONE FLASH SPINS",
+                    "ZH": "SELEZIONE FLASH SPINS",
+                    "US": "SELEZIONE FLASH SPINS",
+                    "PT": "SELEZIONE FLASH SPINS",
+                    "IT": "SELEZIONE FLASH SPINS"
+                },
+                "sectionType": "Feature",
+                "Type": "Title",
+                "SubSection": [
+                    {
+                        "typeDisplay": "flex",
+                        "direction": "column",
+                        "justifyContent": "center",
+                        "features": [
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "column",
+                                "featureContent": [
+                                    {
+                                        "type": "plural_text",
+                                        "textAlignment": "center",
+                                        "content": {
+                                            "EN": [
+                                                "After a FLASH SPINS trigger, the player can choose among 5 different volatilities and a MYSTERY feature."
+                                            ],
+                                            "IT": [
+                                                "Dopo l'atti"
+                                            ],
+                                            "RU": [
+                                                "Когда стопка символов оказывается на барабане, она может занимать две или более последовательных позиций по вертикали. Это означает, что один спин может привести к появлению нескольких экземпляров одного и того же символа на одном барабане. Эти символы обычно появляются группами из 2, 3 или 4 символов."
+                                            ],
+                                            "FR": [
+                                                "Lorsqu'un symbole empilé atterrit sur un rouleau, il peut occuper deux positions ou plus consécutives verticalement. Cela signifie qu'un seul tour peut entraîner plusieurs instances du même symbole, apparaissant sur un rouleau. Ces symboles apparaissent généralement par groupes de 2, 3 ou 4 symboles."
+                                            ],
+                                            "ZH": [
+                                                "当叠加符号落在卷轴上时，它可以垂直占据两个或更多连续位置。这意味着单个旋转可以导致同一符号的多个实例出现在一个卷轴上。这些符号通常以2、3或4个符号的组合出现。"
+                                            ],
+                                            "US": [
+                                                "When a stacked symbol lands on a reel, it can occupy two or more consecutive positions vertically. This means that a single pin can result in multiple instances of the same symbol, appearing in a reel. These symbols usually come in groups of 2,3 or 4 symbols."
+                                            ],
+                                            "PT": [
+                                                "Quando um símbolo empilhado pousa em um rolo, ele pode ocupar duas ou mais posições consecutivas verticalmente. Isso significa que uma única rodada pode resultar em várias instâncias do mesmo símbolo, aparecendo em um rolo. Esses símbolos geralmente vêm em grupos de 2, 3 ou 4 símbolos."
+                                            ]
+                                        },
+                                        "direction": "column",
+                                        "customFormat": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "row",
+                                "featureContent": [
+                                    {
+                                        "type": "img",
+                                        "imageType": "big",
+                                        "divMaxWith": "bigMaxWidth",
+                                        "url": [
+                                            "images/Settings/Assets/PRE_BONUS_UK.png"
+                                        ],
+                                        "direction": "row"
+                                    },
+                                    {
+                                        "type": "plural_text",
+                                        "textAlignment": "center",
+                                        "content": {
+                                            "EN": [
+                                                "- 25 FREE SPINS with 5x, 3x or 2x multipliers;\n- 20 FREE SPINS with 8x, 5x or 3x multipliers;\n- 15 FREE SPINS with 10x, 8x, or 5x multipliers;\n- 10 FREE SPINS with 15x, 10x, or 8x multipliers;\n- 5 FREE SPINS with 30x, 15x or 10x multipliers;\n- MYSTERY SPINS\n  The game will attribute a random number of:\n  -> Spins: 5, 10, 15, 20, 25.\n  -> Three multipliers: x2, x3, x5, x8, x10, x15, x30.",
+                                                "LOW volatility: Features Stacks of Flash Gordon symbols.",
+                                                "MEDIUM volatility: Showcase stacks of Flash Gordon symbols and other symbol stacks.",
+                                                "HIGH volatility: Can have stacks of all symbols"
+                                            ],
+                                            "IT": [
+                                                "Una SUPER STACK si verifica quando un simbolo è pesantemente impilato. Questo può accadere in qualsiasi fase di gioco. La SUPER STACK progredisce di conseguenza con la volatilità scelta:",
+                                                "Volatilità BASSA: Caratteristiche Stack di simboli di Flash Gordon.",
+                                                "Volatilità MEDIA: Mostra stack di simboli di Flash Gordon e altri stack di simboli.",
+                                                "Volatilità ALTA: Può avere stack di tutti i simboli."
+                                            ],
+                                            "RU": [
+                                                "СУПЕР СТЭК происходит, когда какой-либо символ сильно накапливается. Это может происходить на любой фазе игры. СУПЕР СТЭК прогрессирует соответственно выбранной волатильности:",
+                                                "Низкая волатильность: Характеристики стеков символов Флэш Гордона.",
+                                                "Средняя волатильность: Показывает стеки символов Флэш Гордона и другие стеки символов.",
+                                                "Высокая волатильность: Может иметь стеки всех символов."
+                                            ],
+                                            "FR": [
+                                                "Un SUPER STACK se produit lorsqu'un symbole est fortement empilé. Cela peut se produire à n'importe quelle phase de jeu. Le SUPER STACK progresse en fonction de la volatilité choisie :",
+                                                "Volatilité FAIBLE : Caractéristiques Stacks de symboles Flash Gordon.",
+                                                "Volatilité MOYENNE : Affiche des stacks de symboles Flash Gordon et d'autres stacks de symboles.",
+                                                "Volatilité ÉLEVÉE : Peut avoir des stacks de tous les symboles."
+                                            ],
+                                            "ZH": [
+                                                "当任何符号被大量堆叠时，就会出现SUPER STACK。这可以在任何游戏阶段发生。SUPER STACK随所选择的波动性相应地发展：",
+                                                "低波动性：具有Flash Gordon符号的堆栈特征。",
+                                                "中等波动性：展示Flash Gordon符号和其他符号堆栈。",
+                                                "高波动性：可以有所有符号的堆栈。"
+                                            ],
+                                            "US": [
+                                                "A SUPER STACK occurs when any symbol is heavily stacked. This can occur in any game phase. The SUPER STACK progresses accordingly with the chosen volatility:",
+                                                "LOW volatility: Features Stacks of Flash Gordon symbols.",
+                                                "MEDIUM volatility: Showcase stacks of Flash Gordon symbols and other symbol stacks.",
+                                                "HIGH volatility: Can have stacks of all symbols"
+                                            ],
+                                            "PT": [
+                                                "Uma SUPER STACK ocorre quando qualquer símbolo é empilhado em grande quantidade. Isso pode ocorrer em qualquer fase do jogo. A SUPER STACK progride de acordo com a volatilidade escolhida:",
+                                                "Volatilidade BAIXA: Apresenta pilhas de símbolos do Flash Gordon.",
+                                                "Volatilidade MÉDIA: Mostra pilhas de símbolos do Flash Gordon e outras pilhas de símbolos.",
+                                                "Volatilidade ALTA: Pode ter pilhas de todos os símbolos."
+                                            ]
+                                        },
+                                        "direction": "column",
+                                        "customFormat": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": {
+                    "EN": "SELEZIONE FLASH SPINS",
+                    "RU": "SELEZIONE FLASH SPINS",
+                    "FR": "SELEZIONE FLASH SPINS",
+                    "ZH": "SELEZIONE FLASH SPINS",
+                    "US": "SELEZIONE FLASH SPINS",
+                    "PT": "SELEZIONE FLASH SPINS",
+                    "IT": "SELEZIONE FLASH SPINS"
+                },
+                "sectionType": "Feature",
+                "Type": "Title",
+                "SubSection": [
+                    {
+                        "typeDisplay": "flex",
+                        "direction": "column",
+                        "justifyContent": "center",
+                        "features": [
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "row",
+                                "featureContent": [
+                                    {
+                                        "type": "img",
+                                        "imageType": "big",
+                                        "divMaxWith": "bigMaxWidth",
+                                        "url": [
+                                            "images/Settings/Assets/PRE_BONUS_UK.png"
+                                        ],
+                                        "direction": "row"
+                                    },
+                                    {
+                                        "type": "plural_text",
+                                        "textAlignment": "center",
+                                        "content": {
+                                            "EN": [
+                                                "At the beginning of each spin, a multiplier value is randomly drawn and visually displayed.",
+                                                "This multiplier will consistently overlay the WILD symbol if it lands on a SPECIAL REEL. However, the payout will only occur when a paying WAY intersects with the WILD symbol."
+                                            ],
+                                            "IT": [
+                                                "All'inizio di ogni giro, viene estratto casualmente un valore moltiplicatore e visualizzato.",
+                                                "Questo moltiplicatore sovrapporrà costantemente il simbolo WILD se atterra su un RULLO SPECIALE. Tuttavia, il pagamento avverrà solo quando un PERCORSO pagante interseca il simbolo WILD."
+                                            ],
+                                            "RU": [
+                                                "В начале каждого спина случайным образом выбирается значение множителя и визуально отображается.",
+                                                "Этот множитель всегда будет наложен на символ WILD, если он попадет на СПЕЦИАЛЬНЫЙ БАРАБАН. Однако выплата произойдет только тогда, когда платный ПУТЬ пересечется со символом WILD."
+                                            ],
+                                            "FR": [
+                                                "Au début de chaque rotation, une valeur de multiplicateur est tirée au hasard et affichée visuellement.",
+                                                "Ce multiplicateur se superposera systématiquement au symbole WILD s'il atterrit sur un ROULEAU SPÉCIAL. Cependant, le paiement ne se produira que lorsque un TRAJET payant croise le symbole WILD."
+                                            ],
+                                            "ZH": [
+                                                "在每次旋转开始时，会随机抽取一个乘数值并以可视方式显示。",
+                                                "如果乘数落在特殊轴上，它将始终覆盖WILD符号。然而，只有在付费路径与WILD符号相交时才会发生支付。"
+                                            ],
+                                            "US": [
+                                                "At the beginning of each spin, a multiplier value is randomly drawn and visually displayed.",
+                                                "This multiplier will consistently overlay the WILD symbol if it lands on a SPECIAL REEL. However, the payout will only occur when a paying WAY intersects with the WILD symbol."
+                                            ],
+                                            "PT": [
+                                                "No início de cada rodada, um valor de multiplicador é sorteado aleatoriamente e visualmente exibido.",
+                                                "Este multiplicador irá sobrepor consistentemente o símbolo WILD se ele cair em um ROLO ESPECIAL. No entanto, o pagamento ocorrerá apenas quando um CAMINHO pagante interseccionar com o símbolo WILD."
+                                            ]
+                                        },
+                                        "direction": "column",
+                                        "customFormat": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": {
+                    "EN": "CRISTAL SHOP",
+                    "RU": "CRISTAL SHOP",
+                    "FR": "CRISTAL SHOP",
+                    "ZH": "CRISTAL SHOP",
+                    "US": "CRISTAL SHOP",
+                    "PT": "CRISTAL SHOP",
+                    "IT": "CRISTAL SHOP"
+                },
+                "sectionType": "BuyBonus",
+                "Type": "Title",
+                "SubSection": [
+                    {
+                        "typeDisplay": "flex",
+                        "direction": "column",
+                        "justifyContent": "center",
+                        "features": [
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "column",
+                                "divMaxWith": "smallMaxWidth",
+                                "featureContent": [
+                                    {
+                                        "type": "img",
+                                        "divMaxWith": "smallMaxWidth",
+                                        "imageType": "big",
+                                        "wrap": "",
+                                        "url": [
+                                            "images/Settings/Assets/ICON.png"
+                                        ],
+                                        "direction": "row",
+                                        "valueType": "puntataMaxima",
+                                        "Type": "text",
+                                        "Text": "Puntata Maxima:",
+                                        "value": "5,00"
+                                    }
+                                ]
+                            },
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "column",
+                                "divMaxWith": "smallMaxWidth",
+                                "featureContent": [
+                                    {
+                                        "type": "plural_text",
+                                        "textAlignment": "center",
+                                        "content": {
+                                            "EN": [
+                                                "This game offers the possibility to purchase special features directly from the main game by pressing the CRISTAL SHOP button.",
+                                                "Players have the option to purcha FLASH SPINS feature with 4,5 or 6 SCATTER symbols. The number of SCATTER determines the number of SPECIAL REELS during the FLASH SPINS. The LUCKY SCATTERS feature can reward between 4 to 6 SCATTER symbols.",
+                                                "The GOLDEN BET can be activated for 7 times the BET amount. This increases your chance of triggering FLASH SPINS by boosting the presence of SCATTER symbols. When the GOLDEN BET is activated, other options from the CRISTAL SHOP become unavaible for purchase."
+                                            ],
+                                            "IT": [
+                                                "Questo gioco offre la possibilità di acquistare funzionalità speciali direttamente dal gioco principale premendo il pulsante CRISTAL SHOP.",
+                                                "I giocatori hanno l'opzione di acquistare la funzione FLASH SPINS con 4, 5 o 6 simboli SCATTER. Il numero di SCATTER determina il numero di RULLI SPECIALI durante le FLASH SPINS. La funzione LUCKY SCATTERS può premiare tra 4 e 6 simboli SCATTER.",
+                                                "La GOLDEN BET può essere attivata per 7 volte l'importo della scommessa. Questo aumenta la tua possibilità di attivare le FLASH SPINS potenziando la presenza di simboli SCATTER. Quando la GOLDEN BET è attivata, altre opzioni dal CRISTAL SHOP diventano non disponibili per l'acquisto."
+                                            ],
+                                            "RU": [
+                                                "Эта игра предлагает возможность покупать специальные функции непосредственно из основной игры, нажимая кнопку CRISTAL SHOP.",
+                                                "Игроки могут приобрести функцию FLASH SPINS с 4, 5 или 6 символами SCATTER. Количество SCATTER определяет количество СПЕЦИАЛЬНЫХ БАРАБАНОВ во время FLASH SPINS. Функция LUCKY SCATTERS может вознаграждать от 4 до 6 символов SCATTER.",
+                                                "ЗОЛОТАЯ СТАВКА может быть активирована в 7 раз больше суммы СТАВКИ. Это увеличивает ваш шанс активации FLASH SPINS за счет увеличения количества символов SCATTER. Когда активирована ЗОЛОТАЯ СТАВКА, другие варианты из CRISTAL SHOP становятся недоступными для покупки."
+                                            ],
+                                            "FR": [
+                                                "Ce jeu offre la possibilité d'acheter des fonctionnalités spéciales directement depuis le jeu principal en appuyant sur le bouton CRISTAL SHOP.",
+                                                "Les joueurs ont la possibilité d'acheter la fonction FLASH SPINS avec 4, 5 ou 6 symboles SCATTER. Le nombre de SCATTER détermine le nombre de ROULEAUX SPÉCIAUX pendant les FLASH SPINS. La fonction LUCKY SCATTERS peut récompenser entre 4 et 6 symboles SCATTER.",
+                                                "La MISE DORÉE peut être activée pour 7 fois le montant de la MISE. Cela augmente vos chances d'activer les FLASH SPINS en augmentant la présence de symboles SCATTER. Lorsque la MISE DORÉE est activée, d'autres options du CRISTAL SHOP deviennent indisponibles à l'achat."
+                                            ],
+                                            "ZH": [
+                                                "这款游戏提供了通过按下CRYSTAL SHOP按钮直接从主游戏购买特殊功能的可能性。",
+                                                "玩家可以使用4、5或6个SCATTER符号购买FLASH SPINS功能。 SCATTER的数量决定了FLASH SPINS期间的SPECIAL REEL数量。 幸运SCATTERS功能可以奖励4到6个SCATTER符号。",
+                                                "黄金赌注可以激活7倍于投注金额。 这会增加您触发FLASH SPINS的机会，增加SCATTER符号的出现。 当激活黄金赌注时，CRYSTAL SHOP中的其他选项将无法购买。"
+                                            ],
+                                            "US": [
+                                                "This game offers the possibility to purchase special features directly from the main game by pressing the CRISTAL SHOP button.",
+                                                "Players have the option to purcha FLASH SPINS feature with 4,5 or 6 SCATTER symbols. The number of SCATTER determines the number of SPECIAL REELS during the FLASH SPINS. The LUCKY SCATTERS feature can reward between 4 to 6 SCATTER symbols.",
+                                                "The GOLDEN BET can be activated for 7 times the BET amount. This increases your chance of triggering FLASH SPINS by boosting the presence of SCATTER symbols. When the GOLDEN BET is activated, other options from the CRISTAL SHOP become unavaible for purchase."
+                                            ],
+                                            "PT": [
+                                                "Este jogo oferece a possibilidade de comprar recursos especiais diretamente do jogo principal pressionando o botão CRISTAL SHOP.",
+                                                "Os jogadores têm a opção de comprar a função FLASH SPINS com 4, 5 ou 6 símbolos SCATTER. O número de SCATTER determina o número de CARRETEL ESPECIAL durante os FLASH SPINS. A função LUCKY SCATTERS pode recompensar entre 4 a 6 símbolos SCATTER.",
+                                                "A APOSTA DOURADA pode ser ativada por 7 vezes o valor da APOSTA. Isso aumenta sua chance de acionar FLASH SPINS ao aumentar a presença de símbolos SCATTER. Quando a APOSTA DOURADA é ativada, outras opções da CRISTAL SHOP ficam indisponíveis para compra."
+                                            ]
+                                        },
+                                        "direction": "column",
+                                        "customFormat": "",
+                                        "valueType": "maxWinValue",
+                                        "Type": "text",
+                                        "Text": "The Max win is ",
+                                        "value": "20,000x"
+                                    }
+                                ]
+                            },
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "row",
+                                "divMaxWith": "smallMaxWidth",
+                                "featureContent": [
+                                    {
+                                        "type": "divContent",
+                                        "numberOfDivs": 5,
+                                        "direction": "row",
+                                        "divContentBorder": [
+                                            {
+                                                "direction": "column",
+                                                "contentInside": {
+                                                    "EN": [
+                                                        "GOLDEN BET 7X BET"
+                                                    ],
+                                                    "IT": [
+                                                        "GOLDEN BET 7X PUNTATA"
+                                                    ],
+                                                    "RU": [
+                                                        "GOLDEN BET 7X СТАВКА "
+                                                    ],
+                                                    "FR": [
+                                                        "GOLDEN BET 7X MISE"
+                                                    ],
+                                                    "ZH": [
+                                                        "GOLDEN BET 7X 倍投注"
+                                                    ],
+                                                    "US": [
+                                                        "GOLDEN BET 7X BET"
+                                                    ],
+                                                    "PT": [
+                                                        "GOLDEN BET 7X APOSTA"
+                                                    ]
+                                                },
+                                                "content": "RTP - 93,75%"
+                                            },
+                                            {
+                                                "direction": "column",
+                                                "contentInside": {
+                                                    "EN": [
+                                                        "6 SCATTERS 400X BET"
+                                                    ],
+                                                    "IT": [
+                                                        "6 SCATTERS 400X PUNTATA"
+                                                    ],
+                                                    "RU": [
+                                                        "6 SCATTERS 400X СТАВКА "
+                                                    ],
+                                                    "FR": [
+                                                        "6 SCATTERS 400X MISE"
+                                                    ],
+                                                    "ZH": [
+                                                        "6 SCATTERS 400X 倍投注"
+                                                    ],
+                                                    "US": [
+                                                        "6 SCATTERS 400X BET"
+                                                    ],
+                                                    "PT": [
+                                                        "6 SCATTERS 400X APOSTA"
+                                                    ]
+                                                },
+                                                "content": "RTP - 93,48%"
+                                            },
+                                            {
+                                                "direction": "column",
+                                                "contentInside": {
+                                                    "EN": [
+                                                        "5 SCATTERS 200X BET"
+                                                    ],
+                                                    "IT": [
+                                                        "5 SCATTERS 200X PUNTATA"
+                                                    ],
+                                                    "RU": [
+                                                        "5 SCATTERS 200X СТАВКА "
+                                                    ],
+                                                    "FR": [
+                                                        "5 SCATTERS 200X MISE"
+                                                    ],
+                                                    "ZH": [
+                                                        "5 SCATTERS 200X 倍投注"
+                                                    ],
+                                                    "US": [
+                                                        "5 SCATTERS 200X BET"
+                                                    ],
+                                                    "PT": [
+                                                        "5 SCATTERS 200X APOSTA"
+                                                    ]
+                                                },
+                                                "content": "RTP - 93,50%"
+                                            },
+                                            {
+                                                "direction": "column",
+                                                "contentInside": {
+                                                    "EN": [
+                                                        "4 SCATTERS 100X BET"
+                                                    ],
+                                                    "IT": [
+                                                        "4 SCATTERS 100X PUNTATA"
+                                                    ],
+                                                    "RU": [
+                                                        "4 SCATTERS 100X СТАВКА "
+                                                    ],
+                                                    "FR": [
+                                                        "4 SCATTERS 100X MISE"
+                                                    ],
+                                                    "ZH": [
+                                                        "4 SCATTERS 100X 倍投注"
+                                                    ],
+                                                    "US": [
+                                                        "4 SCATTERS 100X BET"
+                                                    ],
+                                                    "PT": [
+                                                        "4 SCATTERS 100X APOSTA"
+                                                    ]
+                                                },
+                                                "content": "RTP - 93,59%"
+                                            },
+                                            {
+                                                "direction": "column",
+                                                "contentInside": {
+                                                    "EN": [
+                                                        "LUCKY SCATTERS 300X BET"
+                                                    ],
+                                                    "IT": [
+                                                        "LUCKY SCATTERS 300X PUNTATA"
+                                                    ],
+                                                    "RU": [
+                                                        "LUCKY SCATTERS 300X СТАВКА "
+                                                    ],
+                                                    "FR": [
+                                                        "LUCKY SCATTERS 300X MISE"
+                                                    ],
+                                                    "ZH": [
+                                                        "LUCKY SCATTERS 300X 倍投注"
+                                                    ],
+                                                    "US": [
+                                                        "LUCKY SCATTERS 300X BET"
+                                                    ],
+                                                    "PT": [
+                                                        "LUCKY SCATTERS 300X APOSTA"
+                                                    ]
+                                                },
+                                                "content": "RTP - 93,45%"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": {
+                    "EN": "BUTTONS",
+                    "RU": "КНОПКИ",
+                    "FR": "BOUTONS",
+                    "ZH": "按钮",
+                    "US": "BUTTONS",
+                    "PT": "BOTÕES",
+                    "IT": "PULSANTI"
+                },
+                "sectionType": "Button",
+                "Type": "Title",
+                "SubSection": [
+                    {
+                        "Layout": "flex",
+                        "displayContent": [
+                            {
+                                "Buttons": [
+                                    {
+                                        "img": "images/Settings/Buttons/SPIN.png",
+                                        "content": {
+                                            "EN": [
+                                                "Starts the game play"
+                                            ],
+                                            "IT": [
+                                                "Inizia il gioco"
+                                            ],
+                                            "RU": [
+                                                "Начинает игру"
+                                            ],
+                                            "FR": [
+                                                "Démarre le jeu"
+                                            ],
+                                            "ZH": [
+                                                "开始游戝"
+                                            ],
+                                            "US": [
+                                                "Starts the game play"
+                                            ],
+                                            "PT": [
+                                                "Inicia o jogo"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "img": "images/Settings/Buttons/AUTOPLAY.png",
+                                        "content": {
+                                            "EN": [
+                                                "Opens the Autoplay menu."
+                                            ],
+                                            "IT": [
+                                                "Apre il menu Autoplay."
+                                            ],
+                                            "RU": [
+                                                "Начинает игру"
+                                            ],
+                                            "FR": [
+                                                "Ouvre le menu de lecture automatique."
+                                            ],
+                                            "ZH": [
+                                                "打开自动播放蝜坕"
+                                            ],
+                                            "US": [
+                                                "Opens the Autoplay menu."
+                                            ],
+                                            "PT": [
+                                                "Abre o menu de reprodução automática."
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "img": "images/Settings/Buttons/BET.png",
+                                        "content": {
+                                            "EN": [
+                                                "Opens the Bet menu."
+                                            ],
+                                            "IT": [
+                                                "Apre il menu Puntata."
+                                            ],
+                                            "RU": [
+                                                "Открывает меню ѝтавок."
+                                            ],
+                                            "FR": [
+                                                "Ouvre le menu des paris."
+                                            ],
+                                            "ZH": [
+                                                "打开投注蝜坕"
+                                            ],
+                                            "US": [
+                                                "Opens the Bet menu."
+                                            ],
+                                            "PT": [
+                                                "Abre o menu de apostas."
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "img": "images/Settings/Buttons/INFO.png",
+                                        "content": {
+                                            "EN": [
+                                                "Opens the game information/settings screen."
+                                            ],
+                                            "IT": [
+                                                "Apre la schermata delle informazioni."
+                                            ],
+                                            "RU": [
+                                                "Открывает ѝкран ѝ информацией/наѝтройками игры."
+                                            ],
+                                            "FR": [
+                                                "Ouvre l'écran d'informations/réglages du jeu."
+                                            ],
+                                            "ZH": [
+                                                "打开游戝信杯/设置屝幕"
+                                            ],
+                                            "US": [
+                                                "Opens the game information/settings screen."
+                                            ],
+                                            "PT": [
+                                                "Abre a tela de informações/configurações do jogo."
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "img": "images/Settings/Buttons/SOUND.png",
+                                        "content": {
+                                            "EN": [
+                                                "Enables/Disables game volume."
+                                            ],
+                                            "IT": [
+                                                "Attiva/Disattiva il volume del gioco."
+                                            ],
+                                            "RU": [
+                                                "Начинает игру"
+                                            ],
+                                            "FR": [
+                                                "Active/Désactive le volume du jeu."
+                                            ],
+                                            "ZH": [
+                                                "坯用/禝用游戝音針"
+                                            ],
+                                            "US": [
+                                                "Enables/Disables game volume."
+                                            ],
+                                            "PT": [
+                                                "Ativa/Desativa o volume do jogo."
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "img": "images/Settings/Buttons/SIZE.png",
+                                        "content": {
+                                            "EN": [
+                                                "Enables/Disables full-screen gameplay."
+                                            ],
+                                            "IT": [
+                                                "Attiva/Dissativa il gioco a schermo intero."
+                                            ],
+                                            "RU": [
+                                                "Включает/отключает полноѝкранный режим игры."
+                                            ],
+                                            "FR": [
+                                                "Active/Désactive le mode plein écran."
+                                            ],
+                                            "ZH": [
+                                                "坯用/禝用全屝游戝"
+                                            ],
+                                            "US": [
+                                                "Enables/Disables full-screen gameplay."
+                                            ],
+                                            "PT": [
+                                                "Ativa/Desativa o modo de jogo em tela cheia."
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "img": "images/Settings/Buttons/FEED.png",
+                                        "content": {
+                                            "EN": [
+                                                "Opens game history."
+                                            ],
+                                            "IT": [
+                                                "Apre la cronologia del gioco."
+                                            ],
+                                            "RU": [
+                                                "Открывает иѝторию игры."
+                                            ],
+                                            "FR": [
+                                                "Ouvre l'historique des parties."
+                                            ],
+                                            "ZH": [
+                                                "打开游戝历坲记录"
+                                            ],
+                                            "US": [
+                                                "Opens game history."
+                                            ],
+                                            "PT": [
+                                                "Abre o histórico de jogos."
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "img": "images/Settings/Buttons/LANGUAGE.png",
+                                        "content": {
+                                            "EN": [
+                                                "Changes game language."
+                                            ],
+                                            "IT": [
+                                                "Cambia la lingua del gioco."
+                                            ],
+                                            "RU": [
+                                                "Изменѝет ѝзык игры."
+                                            ],
+                                            "FR": [
+                                                "Change la langue du jeu."
+                                            ],
+                                            "ZH": [
+                                                "更改游戝语言"
+                                            ],
+                                            "US": [
+                                                "Changes game language."
+                                            ],
+                                            "PT": [
+                                                "Altera o idioma do jogo."
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "img": "images/Settings/Buttons/MUSIC.png",
+                                        "content": {
+                                            "EN": [
+                                                "Changes music state."
+                                            ],
+                                            "IT": [
+                                                "Cambia lo stato della musica."
+                                            ],
+                                            "RU": [
+                                                "Изменѝет ѝоѝтоѝние музыки."
+                                            ],
+                                            "FR": [
+                                                "Change l'état de la musique."
+                                            ],
+                                            "ZH": [
+                                                "更改音九状思"
+                                            ],
+                                            "US": [
+                                                "Changes music state."
+                                            ],
+                                            "PT": [
+                                                "Altera o estado da música."
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "img": "images/Settings/Buttons/TURBO.png",
+                                        "content": {
+                                            "EN": [
+                                                "Activates Turbo."
+                                            ],
+                                            "IT": [
+                                                "Attivare il Turbo."
+                                            ],
+                                            "RU": [
+                                                "Нктивирует турбо-режим."
+                                            ],
+                                            "FR": [
+                                                "Active le mode Turbo."
+                                            ],
+                                            "ZH": [
+                                                "坯动涡轮模弝"
+                                            ],
+                                            "US": [
+                                                "Activates Turbo."
+                                            ],
+                                            "PT": [
+                                                "Ativa o Turbo."
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
