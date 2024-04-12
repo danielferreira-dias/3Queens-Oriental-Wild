@@ -1807,6 +1807,227 @@
             },
             {
                 "Title": {
+                    "EN": "WILD RESPIN",
+                    "RU": "WILD RESPIN",
+                    "FR": "WILD RESPIN",
+                    "ZH": "WILD RESPIN",
+                    "US": "WILD RESPIN",
+                    "PT": "WILD RESPIN",
+                    "IT": "WILD RESPIN"
+                },
+                "sectionType": "Feature",
+                "Type": "Title",
+                "SubSection": [
+                    {
+                        "typeDisplay": "flex",
+                        "direction": "column",
+                        "justifyContent": "center",
+                        "features": [
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "row",
+                                "featureContent": [
+                                    {
+                                        "type": "img_text",
+                                        "imageType": "big",
+                                        "divMaxWith": "symbolWidth",
+                                        "wrap": "wrap",
+                                        "url": [
+                                            "images/Settings/Symbol/10.png"
+                                        ],
+                                        "textAlignment": "center",
+                                        "hasSpecialData": true,
+                                        "data": [
+                                            {
+                                                "multipliers": "",
+                                                "value": "",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            "FREE SPINS TRIGGER:",
+                                                            "3 SCATTERS: 5 FREE SPINS;",
+                                                            "4 SCATTERS: 7 FREE SPINS;",
+                                                            "5 SCATTERS: 10 FREE SPINS;",
+                                                            "6 SCATTERS: 14 FREE SPINS;"
+                                                        ],
+                                                        "IT": [
+                                                            "FREE SPINS TRIGGER:",
+                                                            "3 SCATTERS: 5 FREE SPINS;",
+                                                            "4 SCATTERS: 7 FREE SPINS;",
+                                                            "5 SCATTERS: 10 FREE SPINS;",
+                                                            "6 SCATTERS: 14 FREE SPINS;"
+                                                        ],
+                                                        "RU": [
+                                                            "FREE SPINS TRIGGER:",
+                                                            "3 SCATTERS: 5 FREE SPINS;",
+                                                            "4 SCATTERS: 7 FREE SPINS;",
+                                                            "5 SCATTERS: 10 FREE SPINS;",
+                                                            "6 SCATTERS: 14 FREE SPINS;"
+                                                        ],
+                                                        "FR": [
+                                                            "FREE SPINS TRIGGER:",
+                                                            "3 SCATTERS: 5 FREE SPINS;",
+                                                            "4 SCATTERS: 7 FREE SPINS;",
+                                                            "5 SCATTERS: 10 FREE SPINS;",
+                                                            "6 SCATTERS: 14 FREE SPINS;"
+                                                        ],
+                                                        "ZH": [
+                                                            "FREE SPINS TRIGGER:",
+                                                            "3 SCATTERS: 5 FREE SPINS;",
+                                                            "4 SCATTERS: 7 FREE SPINS;",
+                                                            "5 SCATTERS: 10 FREE SPINS;",
+                                                            "6 SCATTERS: 14 FREE SPINS;"
+                                                        ],
+                                                        "US": [
+                                                            "FREE SPINS TRIGGER:",
+                                                            "3 SCATTERS: 5 FREE SPINS;",
+                                                            "4 SCATTERS: 7 FREE SPINS;",
+                                                            "5 SCATTERS: 10 FREE SPINS;",
+                                                            "6 SCATTERS: 14 FREE SPINS;"
+                                                        ],
+                                                        "PT": [
+                                                            "FREE SPINS TRIGGER:",
+                                                            "3 SCATTERS: 5 FREE SPINS;",
+                                                            "4 SCATTERS: 7 FREE SPINS;",
+                                                            "5 SCATTERS: 10 FREE SPINS;",
+                                                            "6 SCATTERS: 14 FREE SPINS;"
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "direction": "row",
+                                        "contentDirection": "row"
+                                    },
+                                    {
+                                        "type": "img_text",
+                                        "imageType": "big",
+                                        "divMaxWith": "symbolWidth",
+                                        "wrap": "wrap",
+                                        "url": [
+                                            "images/Settings/Symbol/11.png"
+                                        ],
+                                        "textAlignment": "center",
+                                        "hasSpecialData": true,
+                                        "data": [
+                                            {
+                                                "multipliers": "",
+                                                "value": "",
+                                                "specialContent": [
+                                                    {
+                                                        "EN": [
+                                                            "SUPER FREE SPINS TRIGGER:",
+                                                            "2 SCATTERS + 1 SUPER SCATTER: 5 SUPER FREE SPINS;",
+                                                            "3 SCATTERS + 1 SUPER SCATTER: 7 SUPER FREE SPINS;",
+                                                            "4 SCATTERS + 1 SUPER SCATTER: 10 SUPER FREE SPINS;",
+                                                            "5 SCATTERS + 1 SUPER SCATTER: 14 SUPER FREE SPINS;"
+                                                        ],
+                                                        "IT": [
+                                                            "SUPER FREE SPINS TRIGGER:",
+                                                            "2 SCATTERS + 1 SUPER SCATTER: 5 SUPER FREE SPINS;",
+                                                            "3 SCATTERS + 1 SUPER SCATTER: 7 SUPER FREE SPINS;",
+                                                            "4 SCATTERS + 1 SUPER SCATTER: 10 SUPER FREE SPINS;",
+                                                            "5 SCATTERS + 1 SUPER SCATTER: 14 SUPER FREE SPINS;"
+                                                        ],
+                                                        "RU": [
+                                                            "SUPER FREE SPINS TRIGGER:",
+                                                            "2 SCATTERS + 1 SUPER SCATTER: 5 SUPER FREE SPINS;",
+                                                            "3 SCATTERS + 1 SUPER SCATTER: 7 SUPER FREE SPINS;",
+                                                            "4 SCATTERS + 1 SUPER SCATTER: 10 SUPER FREE SPINS;",
+                                                            "5 SCATTERS + 1 SUPER SCATTER: 14 SUPER FREE SPINS;"
+                                                        ],
+                                                        "FR": [
+                                                            "SUPER FREE SPINS TRIGGER:",
+                                                            "2 SCATTERS + 1 SUPER SCATTER: 5 SUPER FREE SPINS;",
+                                                            "3 SCATTERS + 1 SUPER SCATTER: 7 SUPER FREE SPINS;",
+                                                            "4 SCATTERS + 1 SUPER SCATTER: 10 SUPER FREE SPINS;",
+                                                            "5 SCATTERS + 1 SUPER SCATTER: 14 SUPER FREE SPINS;"
+                                                        ],
+                                                        "ZH": [
+                                                            "SUPER FREE SPINS TRIGGER:",
+                                                            "2 SCATTERS + 1 SUPER SCATTER: 5 SUPER FREE SPINS;",
+                                                            "3 SCATTERS + 1 SUPER SCATTER: 7 SUPER FREE SPINS;",
+                                                            "4 SCATTERS + 1 SUPER SCATTER: 10 SUPER FREE SPINS;",
+                                                            "5 SCATTERS + 1 SUPER SCATTER: 14 SUPER FREE SPINS;"
+                                                        ],
+                                                        "US": [
+                                                            "SUPER FREE SPINS TRIGGER:",
+                                                            "2 SCATTERS + 1 SUPER SCATTER: 5 SUPER FREE SPINS;",
+                                                            "3 SCATTERS + 1 SUPER SCATTER: 7 SUPER FREE SPINS;",
+                                                            "4 SCATTERS + 1 SUPER SCATTER: 10 SUPER FREE SPINS;",
+                                                            "5 SCATTERS + 1 SUPER SCATTER: 14 SUPER FREE SPINS;"
+                                                        ],
+                                                        "PT": [
+                                                            "SUPER FREE SPINS TRIGGER:",
+                                                            "2 SCATTERS + 1 SUPER SCATTER: 5 SUPER FREE SPINS;",
+                                                            "3 SCATTERS + 1 SUPER SCATTER: 7 SUPER FREE SPINS;",
+                                                            "4 SCATTERS + 1 SUPER SCATTER: 10 SUPER FREE SPINS;",
+                                                            "5 SCATTERS + 1 SUPER SCATTER: 14 SUPER FREE SPINS;"
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "direction": "row",
+                                        "contentDirection": "row"
+                                    }
+                                ]
+                            },
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "column",
+                                "featureContent": [
+                                    {
+                                        "type": "plural_text",
+                                        "textAlignment": "center",
+                                        "content": {
+                                            "EN": [
+                                                "When a WILD symbol appears, it can trigger the corresponding REEL WILD to expand and activate the special power of each QUEEN. This feature only occurs if there is a prize.",
+                                                "\nIn the rearrangement phase, the PURPLE QUEEN can put a BLUE QUEEN in any of the reels. If the BLUE QUEEN appears in a prize line, its feature will then be triggered.",
+                                                "\nWhen the BLUE QUEEN reaches the first column, a RED QUEEN can appear. If the RED QUEEN appears in a prize line, its feature will then be triggered. The RED QUEEN is the end of the QUEEN cycle.\nIn case multiple QUEENS are triggered, the rightmost REEL WILD will be chosen. Also, only one QUEEN can appear on each spin."
+                                            ],
+                                            "IT": [
+                                                "Quando appare un simbolo WILD, può attivare il WILD REEL corrispondente per espandersi e attivare il potere speciale di ogni REGINA. Questa funzionalità si verifica solo se c'è un premio.",
+                                                "\nNella fase di riorganizzazione, la REGINA VIOLA può inserire una REGINA BLU in uno qualsiasi dei rulli. Se la REGINA BLU appare in una linea di premio, la sua funzione verrà quindi attivata.",
+                                                "\nQuando la REGINA BLU raggiunge la prima colonna, può apparire una REGINA ROSSA. Se la REGINA ROSSA appare in una linea di premio, la sua funzione verrà quindi attivata. La REGINA ROSSA è la fine del ciclo delle REGINE.\nNel caso in cui siano attivate più REGINE, verrà scelto il WILD REEL più a destra. Inoltre, su ogni giro può comparire solo una REGINA."
+                                            ],
+                                            "RU": [
+                                                "Когда появляется символ WILD, он может активировать соответствующий WILD REEL для раскрытия и активации специальной силы каждой КОРОЛЕВЫ. Эта функция происходит только в случае наличия приза.",
+                                                "\nНа этапе перестановки ПУРПУРНАЯ КОРОЛЕВА может поместить СИНЮЮ КОРОЛЕВУ на любой из барабанов. Если СИНЯЯ КОРОЛЕВА появится на линии приза, то ее функция будет активирована.",
+                                                "\nКогда СИНЯЯ КОРОЛЕВА достигает первого столбца, может появиться КРАСНАЯ КОРОЛЕВА. Если КРАСНАЯ КОРОЛЕВА появится на линии приза, то ее функция будет активирована. КРАСНАЯ КОРОЛЕВА - последняя в цикле КОРОЛЕВ.\nВ случае активации нескольких КОРОЛЕВ будет выбран самый правый WILD REEL. Кроме того, на каждом спине может появиться только одна КОРОЛЕВА."
+                                            ],
+                                            "FR": [
+                                                "Lorsqu'un symbole WILD apparaît, il peut déclencher le WILD REEL correspondant pour se développer et activer le pouvoir spécial de chaque REINE. Cette fonctionnalité ne se produit que s'il y a un prix.",
+                                                "\nPendant la phase de réorganisation, la REINE VIOLETTE peut placer une REINE BLEUE dans l'un des rouleaux. Si la REINE BLEUE apparaît dans une ligne de prix, sa fonction sera alors déclenchée.",
+                                                "\nLorsque la REINE BLEUE atteint la première colonne, une REINE ROUGE peut apparaître. Si la REINE ROUGE apparaît dans une ligne de prix, sa fonction sera alors déclenchée. La REINE ROUGE est la fin du cycle des REINES.\nDans le cas où plusieurs REINES sont déclenchées, le WILD REEL le plus à droite sera choisi. De plus, seule une REINE peut apparaître à chaque rotation."
+                                            ],
+                                            "ZH": [
+                                                "当出现WILD符号时，它可以触发相应的WILD REEL扩展并激活每个女王的特殊力量。只有在有奖励的情况下才会发生此功能。",
+                                                "\n在重新排列阶段，紫色女王可以将蓝色女王放置在任何一个轴上。如果蓝色女王出现在奖励线上，则其功能将被触发。",
+                                                "\n当蓝色女王到达第一列时，红色女王可以出现。如果红色女王出现在奖励线上，则其功能将被触发。红色女王是女王周期的结束。\n如果触发多个女王，则会选择最右边的WILD REEL。此外，每次旋转只能出现一个女王。"
+                                            ],
+                                            "US": [
+                                                "When a WILD symbol appears, it can trigger the corresponding REEL WILD to expand and activate the special power of each QUEEN. This feature only occurs if there is a prize.",
+                                                "\nIn the rearrangement phase, the PURPLE QUEEN can put a BLUE QUEEN in any of the reels. If the BLUE QUEEN appears in a prize line, its feature will then be triggered.",
+                                                "\nWhen the BLUE QUEEN reaches the first column, a RED QUEEN can appear. If the RED QUEEN appears in a prize line, its feature will then be triggered. The RED QUEEN is the end of the QUEEN cycle.\nIn case multiple QUEENS are triggered, the rightmost REEL WILD will be chosen. Also, only one QUEEN can appear on each spin."
+                                            ],
+                                            "PT": [
+                                                "Quando um símbolo WILD aparece, ele pode ativar o WILD REEL correspondente para expandir e ativar o poder especial de cada RAINHA. Esta funcionalidade só ocorre se houver um prêmio.",
+                                                "\nNa fase de rearranjo, a RAINHA ROXA pode colocar uma RAINHA AZUL em qualquer um dos rolos. Se a RAINHA AZUL aparecer em uma linha de prêmio, sua função será então ativada.",
+                                                "\nQuando a RAINHA AZUL alcança a primeira coluna, uma RAINHA VERMELHA pode aparecer. Se a RAINHA VERMELHA aparecer em uma linha de prêmio, sua função será então ativada. A RAINHA VERMELHA é o fim do ciclo das RAINHAS.\nNo caso de várias RAINHAS serem ativadas, o WILD REEL mais à direita será escolhido. Além disso, apenas uma RAINHA pode aparecer em cada rodada."
+                                            ]
+                                        },
+                                        "direction": "column",
+                                        "customFormat": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": {
                     "EN": "CRISTAL SHOP",
                     "RU": "CRISTAL SHOP",
                     "FR": "CRISTAL SHOP",
