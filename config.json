@@ -1443,7 +1443,7 @@
                                                 "Aposta Mínima:"
                                             ]
                                         },
-                                        "value": "0.20"
+                                        "value": "0.10"
                                     },
                                     {
                                         "valueType": "puntataMaxima",
@@ -1487,7 +1487,7 @@
                                                 "Aposta GOLDEN Mínima:"
                                             ]
                                         },
-                                        "value": " 1.40"
+                                        "value": " 0.90"
                                     },
                                     {
                                         "valueType": "puntataMaximaGoldenBet",
@@ -1509,7 +1509,7 @@
                                                 "Aposta GOLDEN Máxima:"
                                             ]
                                         },
-                                        "value": "70.00"
+                                        "value": "90.00"
                                     },
                                     {
                                         "valueType": "maxWinValue",
@@ -1555,34 +1555,19 @@
                                         },
                                         "value": {
                                             "EN": [
-                                                "LOW VOTALITY: 93,69%",
-                                                "MEDIUM VOLATILITY: 93,70%",
-                                                "HIGH VOLATILITY: 93,73%",
-                                                "GOLDEN BET: 93,75%"
+                                                "93,41%"
                                             ],
                                             "IT": [
-                                                "LOW VOTALITY: 93,69%",
-                                                "MEDIUM VOLATILITY: 93,70%",
-                                                "HIGH VOLATILITY: 93,73%",
-                                                "GOLDEN BET: 93,75%"
+                                                "93,41%"
                                             ],
                                             "RU": [
-                                                "LOW VOTALITY: 93,69%",
-                                                "MEDIUM VOLATILITY: 93,70%",
-                                                "HIGH VOLATILITY: 93,73%",
-                                                "GOLDEN BET: 93,75%"
+                                                "93,41%"
                                             ],
                                             "ZH": [
-                                                "LOW VOTALITY: 93,69%",
-                                                "MEDIUM VOLATILITY: 93,70%",
-                                                "HIGH VOLATILITY: 93,73%",
-                                                "GOLDEN BET: 93,75%"
+                                                "93,41%"
                                             ],
                                             "PT": [
-                                                "LOW VOTALITY: 93,69%",
-                                                "MEDIUM VOLATILITY: 93,70%",
-                                                "HIGH VOLATILITY: 93,73%",
-                                                "GOLDEN BET: 93,75%"
+                                                "93,41%"
                                             ]
                                         }
                                     },
@@ -1642,13 +1627,13 @@
             },
             {
                 "Title": {
-                    "EN": "V-POWER",
-                    "RU": "V-POWER",
-                    "FR": "V-POWER",
-                    "ZH": "V-POWER",
-                    "US": "V-POWER",
-                    "PT": "V-POWER",
-                    "IT": "V-POWER"
+                    "EN": "WILD RESPIN",
+                    "RU": "WILD RESPIN",
+                    "FR": "WILD RESPIN",
+                    "ZH": "WILD RESPIN",
+                    "US": "WILD RESPIN",
+                    "PT": "WILD RESPIN",
+                    "IT": "WILD RESPIN"
                 },
                 "sectionType": "Feature",
                 "Type": "Title",
@@ -1658,233 +1643,6 @@
                         "direction": "column",
                         "justifyContent": "center",
                         "features": [
-                            {
-                                "typeDisplay": "flex",
-                                "direction": "column",
-                                "featureContent": [
-                                    {
-                                        "type": "plural_text",
-                                        "textAlignment": "center",
-                                        "content": {
-                                            "EN": [
-                                                "Using the V-POWER feature during the main game allows players to customize the game's volatility, offering three distinct levels: LOW, MEDIUM, and HIGH."
-                                            ],
-                                            "IT": [
-                                                "Utilizzando la funzione V-POWER durante il gioco principale, i giocatori possono personalizzare la volatilità del gioco, offrendo tre livelli distinti: BASSO, MEDIO e ALTO."
-                                            ],
-                                            "RU": [
-                                                "Использование функции V-POWER во время основной игры позволяет игрокам настраивать волатильность игры, предлагая три различных уровня: НИЗКИЙ, СРЕДНИЙ и ВЫСОКИЙ."
-                                            ],
-                                            "FR": [
-                                                "En utilisant la fonction V-POWER pendant le jeu principal, les joueurs peuvent personnaliser la volatilité du jeu, offrant trois niveaux distincts : FAIBLE, MOYEN et ÉLEVÉ."
-                                            ],
-                                            "ZH": [
-                                                "在主游戏期间使用 V-POWER 功能，玩家可以自定义游戏的波动性，提供三个不同的级别：低、中和高。"
-                                            ],
-                                            "US": [
-                                                "Using the V-POWER feature during the main game allows players to customize the game's volatility, offering three distinct levels: LOW, MEDIUM, and HIGH."
-                                            ],
-                                            "PT": [
-                                                "Ao utilizar a funcionalidade V-POWER durante o jogo principal, os jogadores podem personalizar a volatilidade do jogo, oferecendo três níveis distintos: BAIXO, MÉDIO e ALTO."
-                                            ]
-                                        },
-                                        "direction": "column",
-                                        "customFormat": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "typeDisplay": "flex",
-                                "direction": "row",
-                                "featureContent": [
-                                    {
-                                        "type": "img_text",
-                                        "imageType": "big",
-                                        "divMaxWith": "smallMaxWidth",
-                                        "url": [
-                                            "images/Settings/Assets/LOW.png"
-                                        ],
-                                        "textAlignment": "center",
-                                        "hasSpecialData": true,
-                                        "data": [
-                                            {
-                                                "multipliers": "",
-                                                "value": "",
-                                                "specialContent": [
-                                                    {
-                                                        "EN": [
-                                                            "This mode combines elements of HIGH and LOW volatility, catering to players aiming for substantial rewards with reasonable frequency"
-                                                        ],
-                                                        "IT": [
-                                                            "Questo modo combina elementi di alta e bassa volatilità, rivolgendosi ai giocatori che mirano a ricompense sostanziali con una frequenza ragionevole."
-                                                        ],
-                                                        "RU": [
-                                                            "Этот режим сочетает в себе элементы высокой и низкой волатильности, обеспечивая игроков, стремящихся к значительным наградам с разумной частотой."
-                                                        ],
-                                                        "FR": [
-                                                            "Ce mode combine des éléments de volatilité élevée et faible, s'adressant aux joueurs visant des récompenses substantielles avec une fréquence raisonnable."
-                                                        ],
-                                                        "ZH": [
-                                                            "此模式结合了高和低波动性的元素，适合寻求合理频率下丰厚回报的玩家。"
-                                                        ],
-                                                        "US": [
-                                                            "This mode combines elements of HIGH and LOW volatility, catering to players aiming for substantial rewards with reasonable frequency"
-                                                        ],
-                                                        "PT": [
-                                                            "Este modo combina elementos de alta e baixa volatilidade, atendendo aos jogadores que buscam recompensas substanciais com uma frequência razoável."
-                                                        ]
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "direction": "column",
-                                        "contentDirection": "column"
-                                    },
-                                    {
-                                        "type": "img_text",
-                                        "imageType": "big",
-                                        "divMaxWith": "smallMaxWidth",
-                                        "url": [
-                                            "images/Settings/Assets/MEDIUM.png"
-                                        ],
-                                        "textAlignment": "center",
-                                        "hasSpecialData": true,
-                                        "data": [
-                                            {
-                                                "multipliers": "",
-                                                "value": "",
-                                                "specialContent": [
-                                                    {
-                                                        "EN": [
-                                                            "In this settings, payouts occur more frequently, typically in smaller ammounts, making it ideal for players seeking longer gaming sessions."
-                                                        ],
-                                                        "IT": [
-                                                            "In questa configurazione, le vincite avvengono più frequentemente, di solito in importi più piccoli, rendendola ideale per i giocatori che cercano sessioni di gioco più lunghe."
-                                                        ],
-                                                        "RU": [
-                                                            "В этом режиме выплаты происходят чаще, обычно в небольших суммах, что делает его идеальным для игроков, которые предпочитают более длительные игровые сессии."
-                                                        ],
-                                                        "FR": [
-                                                            "Dans ce paramètre, les paiements se produisent plus fréquemment, généralement en petites quantités, ce qui en fait un choix idéal pour les joueurs recherchant des sessions de jeu plus longues."
-                                                        ],
-                                                        "ZH": [
-                                                            "在这种设置下，支付发生得更频繁，通常是较小的金额，非常适合寻找更长游戏时间的玩家。"
-                                                        ],
-                                                        "US": [
-                                                            "In this settings, payouts occur more frequently, typically in smaller ammounts, making it ideal for players seeking longer gaming sessions."
-                                                        ],
-                                                        "PT": [
-                                                            "Nessa configuração, os pagamentos ocorrem com mais frequência, geralmente em quantidades menores, tornando-a ideal para jogadores que procuram sessões de jogo mais longas."
-                                                        ]
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "direction": "column",
-                                        "contentDirection": "column"
-                                    },
-                                    {
-                                        "type": "img_text",
-                                        "imageType": "big",
-                                        "divMaxWith": "smallMaxWidth",
-                                        "url": [
-                                            "images/Settings/Assets/HIGH.png"
-                                        ],
-                                        "textAlignment": "center",
-                                        "hasSpecialData": true,
-                                        "data": [
-                                            {
-                                                "multipliers": "",
-                                                "value": "",
-                                                "specialContent": [
-                                                    {
-                                                        "EN": [
-                                                            "Players have the opportunity to win big prizes, though less often than in LOW volatility. It's suitable for risk-takers aiming for significant wins."
-                                                        ],
-                                                        "IT": [
-                                                            "In questa configurazione, le vincite avvengono più frequentemente, di solito in importi più piccoli, rendendola ideale per i giocatori che cercano sessioni di gioco più lunghe."
-                                                        ],
-                                                        "RU": [
-                                                            "У игроков есть возможность выиграть крупные призы, хотя и реже, чем при низкой волатильности. Это подходит для рискованных игроков, нацеленных на значительные победы."
-                                                        ],
-                                                        "FR": [
-                                                            "Les joueurs ont l'opportunité de remporter de gros prix, bien que moins souvent que dans la volatilité faible. C'est adapté aux amateurs de risques visant des gains importants."
-                                                        ],
-                                                        "ZH": [
-                                                            "玩家有机会赢得大奖，尽管比低波动性时更少。适合寻求重大胜利的冒险家。"
-                                                        ],
-                                                        "US": [
-                                                            "Players have the opportunity to win big prizes, though less often than in LOW volatility. It's suitable for risk-takers aiming for significant wins."
-                                                        ],
-                                                        "PT": [
-                                                            "Os jogadores têm a oportunidade de ganhar grandes prêmios, embora menos frequentemente do que na baixa volatilidade. É adequado para os apostadores que buscam vitórias significativas."
-                                                        ]
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "direction": "column",
-                                        "contentDirection": "column"
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "Title": {
-                    "EN": "SUPER STACK",
-                    "RU": "SUPER STACK",
-                    "FR": "SUPER STACK",
-                    "ZH": "SUPER STACK",
-                    "US": "SUPER STACK",
-                    "PT": "SUPER STACK",
-                    "IT": "SUPER STACK"
-                },
-                "sectionType": "Feature",
-                "Type": "Title",
-                "SubSection": [
-                    {
-                        "typeDisplay": "flex",
-                        "direction": "column",
-                        "justifyContent": "center",
-                        "features": [
-                            {
-                                "typeDisplay": "flex",
-                                "direction": "column",
-                                "featureContent": [
-                                    {
-                                        "type": "plural_text",
-                                        "textAlignment": "center",
-                                        "content": {
-                                            "EN": [
-                                                "When a stacked symbol lands on a reel, it can occupy two or more consecutive positions vertically. This means that a single pin can result in multiple instances of the same symbol, appearing in a reel. These symbols usually come in groups of 2,3 or 4 symbols."
-                                            ],
-                                            "IT": [
-                                                "Quando un simbolo in stack atterra su un rullo, può occupare due o più posizioni consecutive verticalmente. Questo significa che un singolo spin può risultare in molteplici istanze dello stesso simbolo, apparendo in un rullo. Questi simboli di solito arrivano in gruppi di 2, 3 o 4 simboli."
-                                            ],
-                                            "RU": [
-                                                "Когда стопка символов оказывается на барабане, она может занимать две или более последовательных позиций по вертикали. Это означает, что один спин может привести к появлению нескольких экземпляров одного и того же символа на одном барабане. Эти символы обычно появляются группами из 2, 3 или 4 символов."
-                                            ],
-                                            "FR": [
-                                                "Lorsqu'un symbole empilé atterrit sur un rouleau, il peut occuper deux positions ou plus consécutives verticalement. Cela signifie qu'un seul tour peut entraîner plusieurs instances du même symbole, apparaissant sur un rouleau. Ces symboles apparaissent généralement par groupes de 2, 3 ou 4 symboles."
-                                            ],
-                                            "ZH": [
-                                                "当叠加符号落在卷轴上时，它可以垂直占据两个或更多连续位置。这意味着单个旋转可以导致同一符号的多个实例出现在一个卷轴上。这些符号通常以2、3或4个符号的组合出现。"
-                                            ],
-                                            "US": [
-                                                "When a stacked symbol lands on a reel, it can occupy two or more consecutive positions vertically. This means that a single pin can result in multiple instances of the same symbol, appearing in a reel. These symbols usually come in groups of 2,3 or 4 symbols."
-                                            ],
-                                            "PT": [
-                                                "Quando um símbolo empilhado pousa em um rolo, ele pode ocupar duas ou mais posições consecutivas verticalmente. Isso significa que uma única rodada pode resultar em várias instâncias do mesmo símbolo, aparecendo em um rolo. Esses símbolos geralmente vêm em grupos de 2, 3 ou 4 símbolos."
-                                            ]
-                                        },
-                                        "direction": "column",
-                                        "customFormat": ""
-                                    }
-                                ]
-                            },
                             {
                                 "typeDisplay": "flex",
                                 "direction": "row",
@@ -1892,57 +1650,60 @@
                                     {
                                         "type": "img",
                                         "imageType": "big",
-                                        "divMaxWith": "smallMaxWidth",
+                                        "divMaxWith": "symbolWidth",
                                         "url": [
-                                            "images/Settings/Assets/SUPER_STACK.png"
+                                            "images/Settings/Symbol/6.png",
+                                            "images/Settings/Symbol/7.png",
+                                            "images/Settings/Symbol/8.png"
                                         ],
+                                        "imageWidth": "30%",
+                                        "wrap": "wrap",
                                         "direction": "row"
-                                    },
+                                    }
+                                ]
+                            },
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "column",
+                                "featureContent": [
                                     {
                                         "type": "plural_text",
                                         "textAlignment": "center",
                                         "content": {
                                             "EN": [
-                                                "A SUPER STACK occurs when any symbol is heavily stacked. This can occur in any game phase. The SUPER STACK progresses accordingly with the chosen volatility:",
-                                                "LOW volatility: Features Stacks of Flash Gordon symbols.",
-                                                "MEDIUM volatility: Showcase stacks of Flash Gordon symbols and other symbol stacks.",
-                                                "HIGH volatility: Can have stacks of all symbols"
+                                                "When a WILD symbol appears, it can trigger the corresponding REEL WILD to expand and activate the special power of each QUEEN. This feature only occurs if there is a prize.",
+                                                "\nIn the rearrangement phase, the PURPLE QUEEN can put a BLUE QUEEN in any of the reels. If the BLUE QUEEN appears in a prize line, its feature will then be triggered.",
+                                                "\nWhen the BLUE QUEEN reaches the first column, a RED QUEEN can appear. If the RED QUEEN appears in a prize line, its feature will then be triggered. The RED QUEEN is the end of the QUEEN cycle.\nIn case multiple QUEENS are triggered, the rightmost REEL WILD will be chosen. Also, only one QUEEN can appear on each spin."
                                             ],
                                             "IT": [
-                                                "Una SUPER STACK si verifica quando un simbolo è pesantemente impilato. Questo può accadere in qualsiasi fase di gioco. La SUPER STACK progredisce di conseguenza con la volatilità scelta:",
-                                                "Volatilità BASSA: Caratteristiche Stack di simboli di Flash Gordon.",
-                                                "Volatilità MEDIA: Mostra stack di simboli di Flash Gordon e altri stack di simboli.",
-                                                "Volatilità ALTA: Può avere stack di tutti i simboli."
+                                                "Quando appare un simbolo WILD, può attivare il WILD REEL corrispondente per espandersi e attivare il potere speciale di ogni REGINA. Questa funzionalità si verifica solo se c'è un premio.",
+                                                "\nNella fase di riorganizzazione, la REGINA VIOLA può inserire una REGINA BLU in uno qualsiasi dei rulli. Se la REGINA BLU appare in una linea di premio, la sua funzione verrà quindi attivata.",
+                                                "\nQuando la REGINA BLU raggiunge la prima colonna, può apparire una REGINA ROSSA. Se la REGINA ROSSA appare in una linea di premio, la sua funzione verrà quindi attivata. La REGINA ROSSA è la fine del ciclo delle REGINE.\nNel caso in cui siano attivate più REGINE, verrà scelto il WILD REEL più a destra. Inoltre, su ogni giro può comparire solo una REGINA."
                                             ],
                                             "RU": [
-                                                "СУПЕР СТЭК происходит, когда какой-либо символ сильно накапливается. Это может происходить на любой фазе игры. СУПЕР СТЭК прогрессирует соответственно выбранной волатильности:",
-                                                "Низкая волатильность: Характеристики стеков символов Флэш Гордона.",
-                                                "Средняя волатильность: Показывает стеки символов Флэш Гордона и другие стеки символов.",
-                                                "Высокая волатильность: Может иметь стеки всех символов."
+                                                "Когда появляется символ WILD, он может активировать соответствующий WILD REEL для раскрытия и активации специальной силы каждой КОРОЛЕВЫ. Эта функция происходит только в случае наличия приза.",
+                                                "\nНа этапе перестановки ПУРПУРНАЯ КОРОЛЕВА может поместить СИНЮЮ КОРОЛЕВУ на любой из барабанов. Если СИНЯЯ КОРОЛЕВА появится на линии приза, то ее функция будет активирована.",
+                                                "\nКогда СИНЯЯ КОРОЛЕВА достигает первого столбца, может появиться КРАСНАЯ КОРОЛЕВА. Если КРАСНАЯ КОРОЛЕВА появится на линии приза, то ее функция будет активирована. КРАСНАЯ КОРОЛЕВА - последняя в цикле КОРОЛЕВ.\nВ случае активации нескольких КОРОЛЕВ будет выбран самый правый WILD REEL. Кроме того, на каждом спине может появиться только одна КОРОЛЕВА."
                                             ],
                                             "FR": [
-                                                "Un SUPER STACK se produit lorsqu'un symbole est fortement empilé. Cela peut se produire à n'importe quelle phase de jeu. Le SUPER STACK progresse en fonction de la volatilité choisie :",
-                                                "Volatilité FAIBLE : Caractéristiques Stacks de symboles Flash Gordon.",
-                                                "Volatilité MOYENNE : Affiche des stacks de symboles Flash Gordon et d'autres stacks de symboles.",
-                                                "Volatilité ÉLEVÉE : Peut avoir des stacks de tous les symboles."
+                                                "Lorsqu'un symbole WILD apparaît, il peut déclencher le WILD REEL correspondant pour se développer et activer le pouvoir spécial de chaque REINE. Cette fonctionnalité ne se produit que s'il y a un prix.",
+                                                "\nPendant la phase de réorganisation, la REINE VIOLETTE peut placer une REINE BLEUE dans l'un des rouleaux. Si la REINE BLEUE apparaît dans une ligne de prix, sa fonction sera alors déclenchée.",
+                                                "\nLorsque la REINE BLEUE atteint la première colonne, une REINE ROUGE peut apparaître. Si la REINE ROUGE apparaît dans une ligne de prix, sa fonction sera alors déclenchée. La REINE ROUGE est la fin du cycle des REINES.\nDans le cas où plusieurs REINES sont déclenchées, le WILD REEL le plus à droite sera choisi. De plus, seule une REINE peut apparaître à chaque rotation."
                                             ],
                                             "ZH": [
-                                                "当任何符号被大量堆叠时，就会出现SUPER STACK。这可以在任何游戏阶段发生。SUPER STACK随所选择的波动性相应地发展：",
-                                                "低波动性：具有Flash Gordon符号的堆栈特征。",
-                                                "中等波动性：展示Flash Gordon符号和其他符号堆栈。",
-                                                "高波动性：可以有所有符号的堆栈。"
+                                                "当出现WILD符号时，它可以触发相应的WILD REEL扩展并激活每个女王的特殊力量。只有在有奖励的情况下才会发生此功能。",
+                                                "\n在重新排列阶段，紫色女王可以将蓝色女王放置在任何一个轴上。如果蓝色女王出现在奖励线上，则其功能将被触发。",
+                                                "\n当蓝色女王到达第一列时，红色女王可以出现。如果红色女王出现在奖励线上，则其功能将被触发。红色女王是女王周期的结束。\n如果触发多个女王，则会选择最右边的WILD REEL。此外，每次旋转只能出现一个女王。"
                                             ],
                                             "US": [
-                                                "A SUPER STACK occurs when any symbol is heavily stacked. This can occur in any game phase. The SUPER STACK progresses accordingly with the chosen volatility:",
-                                                "LOW volatility: Features Stacks of Flash Gordon symbols.",
-                                                "MEDIUM volatility: Showcase stacks of Flash Gordon symbols and other symbol stacks.",
-                                                "HIGH volatility: Can have stacks of all symbols"
+                                                "When a WILD symbol appears, it can trigger the corresponding REEL WILD to expand and activate the special power of each QUEEN. This feature only occurs if there is a prize.",
+                                                "\nIn the rearrangement phase, the PURPLE QUEEN can put a BLUE QUEEN in any of the reels. If the BLUE QUEEN appears in a prize line, its feature will then be triggered.",
+                                                "\nWhen the BLUE QUEEN reaches the first column, a RED QUEEN can appear. If the RED QUEEN appears in a prize line, its feature will then be triggered. The RED QUEEN is the end of the QUEEN cycle.\nIn case multiple QUEENS are triggered, the rightmost REEL WILD will be chosen. Also, only one QUEEN can appear on each spin."
                                             ],
                                             "PT": [
-                                                "Uma SUPER STACK ocorre quando qualquer símbolo é empilhado em grande quantidade. Isso pode ocorrer em qualquer fase do jogo. A SUPER STACK progride de acordo com a volatilidade escolhida:",
-                                                "Volatilidade BAIXA: Apresenta pilhas de símbolos do Flash Gordon.",
-                                                "Volatilidade MÉDIA: Mostra pilhas de símbolos do Flash Gordon e outras pilhas de símbolos.",
-                                                "Volatilidade ALTA: Pode ter pilhas de todos os símbolos."
+                                                "Quando um símbolo WILD aparece, ele pode ativar o WILD REEL correspondente para expandir e ativar o poder especial de cada RAINHA. Esta funcionalidade só ocorre se houver um prêmio.",
+                                                "\nNa fase de rearranjo, a RAINHA ROXA pode colocar uma RAINHA AZUL em qualquer um dos rolos. Se a RAINHA AZUL aparecer em uma linha de prêmio, sua função será então ativada.",
+                                                "\nQuando a RAINHA AZUL alcança a primeira coluna, uma RAINHA VERMELHA pode aparecer. Se a RAINHA VERMELHA aparecer em uma linha de prêmio, sua função será então ativada. A RAINHA VERMELHA é o fim do ciclo das RAINHAS.\nNo caso de várias RAINHAS serem ativadas, o WILD REEL mais à direita será escolhido. Além disso, apenas uma RAINHA pode aparecer em cada rodada."
                                             ]
                                         },
                                         "direction": "column",
@@ -1969,344 +1730,6 @@
                 "SubSection": [
                     {
                         "typeDisplay": "flex",
-                        "direction": "row",
-                        "justifyContent": "center",
-                        "features": [
-                            {
-                                "typeDisplay": "flex",
-                                "direction": "column",
-                                "featureContent": [
-                                    {
-                                        "type": "img",
-                                        "divMaxWith": "smallMaxWidth",
-                                        "imageType": "big",
-                                        "wrap": "wrap",
-                                        "url": [
-                                            "images/Settings/Symbol/9.png"
-                                        ],
-                                        "direction": "row"
-                                    },
-                                    {
-                                        "type": "text",
-                                        "textAlignment": "center",
-                                        "content": {
-                                            "EN": [
-                                                "Substitutes all symbols, except the SCATTER symbol."
-                                            ],
-                                            "IT": [
-                                                "Sostituisce tutti i simboli, tranne il simbolo SCATTER."
-                                            ],
-                                            "RU": [
-                                                "Заменѝет вѝе ѝимволы, кроме ѝимвола SCATTER."
-                                            ],
-                                            "FR": [
-                                                "Remplace tous les symboles, sauf le symbole SCATTER."
-                                            ],
-                                            "ZH": [
-                                                "替杢所有符坷，除了 SCATTER。"
-                                            ],
-                                            "US": [
-                                                "Substitutes all symbols, except the SCATTER."
-                                            ],
-                                            "PT": [
-                                                "Substitui todos os símbolos, exceto o símbolo SCATTER."
-                                            ]
-                                        },
-                                        "direction": "column",
-                                        "customFormat": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "typeDisplay": "flex",
-                                "direction": "column",
-                                "featureContent": [
-                                    {
-                                        "type": "img_text",
-                                        "imageType": "big",
-                                        "divMaxWith": "smallMaxWidth",
-                                        "wrap": "wrap",
-                                        "url": [
-                                            "images/Settings/Symbol/10.png"
-                                        ],
-                                        "textAlignment": "center",
-                                        "hasSpecialData": false,
-                                        "direction": "row",
-                                        "contentDirection": "row"
-                                    },
-                                    {
-                                        "type": "text",
-                                        "textAlignment": "center",
-                                        "content": {
-                                            "EN": [
-                                                "Flash's motorcycle has the ability to shoot randommly at symbols, converting them into WILD symbols."
-                                            ],
-                                            "IT": [
-                                                "La motocicletta di Flash ha la capacità di sparare casualmente ai simboli, trasformandoli in simboli WILD."
-                                            ],
-                                            "RU": [
-                                                "Мотоцикл Флэша способен стрелять случайным образом по символам, превращая их в символы WILD."
-                                            ],
-                                            "FR": [
-                                                "La moto de Flash a la capacité de tirer aléatoirement sur des symboles, les transformant en symboles WILD."
-                                            ],
-                                            "ZH": [
-                                                "Flash的摩托车有能力随机射击符号，将它们转换为WILD符号。"
-                                            ],
-                                            "US": [
-                                                "Flash's motorcycle has the ability to shoot randommly at symbols, converting them into WILD symbols."
-                                            ],
-                                            "PT": [
-                                                "A motocicleta do Flash tem a capacidade de disparar aleatoriamente em símbolos, convertendo-os em símbolos WILD."
-                                            ]
-                                        },
-                                        "direction": "column",
-                                        "customFormat": ""
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "Title": {
-                    "EN": "FLASH SPINS",
-                    "RU": "FLASH SPINS",
-                    "FR": "FLASH SPINS",
-                    "ZH": "FLASH SPINS",
-                    "US": "FLASH SPINS",
-                    "PT": "FLASH SPINS",
-                    "IT": "FLASH SPINS"
-                },
-                "sectionType": "Feature",
-                "Type": "Title",
-                "SubSection": [
-                    {
-                        "typeDisplay": "flex",
-                        "direction": "column",
-                        "justifyContent": "center",
-                        "features": [
-                            {
-                                "typeDisplay": "flex",
-                                "direction": "column",
-                                "featureContent": [
-                                    {
-                                        "type": "img",
-                                        "divMaxWith": "smallMaxWidth",
-                                        "imageType": "big",
-                                        "wrap": "wrap",
-                                        "url": [
-                                            "images/Settings/Symbol/10.png"
-                                        ],
-                                        "direction": "row"
-                                    }
-                                ]
-                            },
-                            {
-                                "typeDisplay": "flex",
-                                "direction": "column",
-                                "featureContent": [
-                                    {
-                                        "type": "plural_text",
-                                        "textAlignment": "center",
-                                        "content": {
-                                            "EN": [
-                                                "Lading 4 to 6 SCATTERS symbols in the main game, triggers the FLASH SPINS.",
-                                                "Depending on the number of SCATTERS, several SPECIAL REELS will be activated. WILD Symbols will only receive a multiplier if they land on these SPECIAL REELS.",
-                                                "4 SCATTERS will activate SPECIAL REELS 3 and 4.",
-                                                "5 SCATTERS will activate SPECIAL REELS 2 to 5.",
-                                                "6 SCATTERS activate all 6 SPECIAL REELS."
-                                            ],
-                                            "IT": [
-                                                "Atterrare 4-6 simboli SCATTER nel gioco principale, attiva le FLASH SPINS.",
-                                                "A seconda del numero di SCATTER, verranno attivati diversi rulli SPECIALI. I simboli WILD riceveranno un moltiplicatore solo se atterrano su questi rulli SPECIALI.",
-                                                "4 SCATTER attiveranno i rulli SPECIALI 3 e 4.",
-                                                "5 SCATTER attiveranno i rulli SPECIALI dal 2 al 5.",
-                                                "6 SCATTER attivano tutti e 6 i rulli SPECIALI."
-                                            ],
-                                            "RU": [
-                                                "При появлении от 4 до 6 символов SCATTER в основной игре запускаются FLASH SPINS.",
-                                                "В зависимости от количества символов SCATTER будут активированы различные СПЕЦИАЛЬНЫЕ БАРАБАНЫ. Символы WILD будут иметь множитель только при попадании на эти СПЕЦИАЛЬНЫЕ БАРАБАНЫ.",
-                                                "4 SCATTER активируют СПЕЦИАЛЬНЫЕ БАРАБАНЫ 3 и 4.",
-                                                "5 SCATTER активируют СПЕЦИАЛЬНЫЕ БАРАБАНЫ с 2 по 5.",
-                                                "6 SCATTER активируют все 6 СПЕЦИАЛЬНЫЕ БАРАБАНЫ."
-                                            ],
-                                            "FR": [
-                                                "L'obtention de 4 à 6 symboles SCATTERS dans le jeu principal déclenche les FLASH SPINS.",
-                                                "Selon le nombre de symboles SCATTERS, plusieurs ROULEAUX SPÉCIAUX seront activés. Les symboles WILD ne recevront un multiplicateur que s'ils atterrissent sur ces ROULEAUX SPÉCIAUX.",
-                                                "4 SCATTERS activeront les ROULEAUX SPÉCIAUX 3 et 4.",
-                                                "5 SCATTERS activeront les ROULEAUX SPÉCIAUX 2 à 5.",
-                                                "6 SCATTERS activent tous les 6 ROULEAUX SPÉCIAUX."
-                                            ],
-                                            "ZH": [
-                                                "在主游戏中，出现4到6个SCATTERS符号将触发FLASH SPINS。",
-                                                "根据SCATTERS的数量，将激活多个特殊轴。只有当WILD符号落在这些特殊轴上时，才会获得乘数。",
-                                                "4个SCATTERS将激活特殊轴3和4。",
-                                                "5个SCATTERS将激活特殊轴2到5。",
-                                                "6个SCATTERS将激活所有6个特殊轴。"
-                                            ],
-                                            "US": [
-                                                "Lading 4 to 6 SCATTERS symbols in the main game, triggers the FLASH SPINS.",
-                                                "Depending on the number of SCATTERS, several SPECIAL REELS will be activated. WILD Symbols will only receive a multiplier if they land on these SPECIAL REELS.",
-                                                "4 SCATTERS will activate SPECIAL REELS 3 and 4.",
-                                                "5 SCATTERS will activate SPECIAL REELS 2 to 5.",
-                                                "6 SCATTERS activate all 6 SPECIAL REELS."
-                                            ],
-                                            "PT": [
-                                                "Aterrando de 4 a 6 símbolos SCATTERS no jogo principal, aciona as FLASH SPINS.",
-                                                "Dependendo do número de SCATTERS, vários ROLOS ESPECIAIS serão ativados. Os Símbolos WILD só receberão um multiplicador se caírem nesses ROLOS ESPECIAIS.",
-                                                "4 SCATTERS ativarão os ROLOS ESPECIAIS 3 e 4.",
-                                                "5 SCATTERS ativarão os ROLOS ESPECIAIS de 2 a 5.",
-                                                "6 SCATTERS ativam todos os 6 ROLOS ESPECIAIS."
-                                            ]
-                                        },
-                                        "direction": "column",
-                                        "customFormat": ""
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "Title": {
-                    "EN": "SELEZIONE FLASH SPINS",
-                    "RU": "SELEZIONE FLASH SPINS",
-                    "FR": "SELEZIONE FLASH SPINS",
-                    "ZH": "SELEZIONE FLASH SPINS",
-                    "US": "SELEZIONE FLASH SPINS",
-                    "PT": "SELEZIONE FLASH SPINS",
-                    "IT": "SELEZIONE FLASH SPINS"
-                },
-                "sectionType": "Feature",
-                "Type": "Title",
-                "SubSection": [
-                    {
-                        "typeDisplay": "flex",
-                        "direction": "column",
-                        "justifyContent": "center",
-                        "features": [
-                            {
-                                "typeDisplay": "flex",
-                                "direction": "column",
-                                "featureContent": [
-                                    {
-                                        "type": "plural_text",
-                                        "textAlignment": "center",
-                                        "content": {
-                                            "EN": [
-                                                "After a FLASH SPINS trigger, the player can choose among 5 different volatilities and a MYSTERY feature."
-                                            ],
-                                            "IT": [
-                                                "Dopo l'atti"
-                                            ],
-                                            "RU": [
-                                                "Когда стопка символов оказывается на барабане, она может занимать две или более последовательных позиций по вертикали. Это означает, что один спин может привести к появлению нескольких экземпляров одного и того же символа на одном барабане. Эти символы обычно появляются группами из 2, 3 или 4 символов."
-                                            ],
-                                            "FR": [
-                                                "Lorsqu'un symbole empilé atterrit sur un rouleau, il peut occuper deux positions ou plus consécutives verticalement. Cela signifie qu'un seul tour peut entraîner plusieurs instances du même symbole, apparaissant sur un rouleau. Ces symboles apparaissent généralement par groupes de 2, 3 ou 4 symboles."
-                                            ],
-                                            "ZH": [
-                                                "当叠加符号落在卷轴上时，它可以垂直占据两个或更多连续位置。这意味着单个旋转可以导致同一符号的多个实例出现在一个卷轴上。这些符号通常以2、3或4个符号的组合出现。"
-                                            ],
-                                            "US": [
-                                                "When a stacked symbol lands on a reel, it can occupy two or more consecutive positions vertically. This means that a single pin can result in multiple instances of the same symbol, appearing in a reel. These symbols usually come in groups of 2,3 or 4 symbols."
-                                            ],
-                                            "PT": [
-                                                "Quando um símbolo empilhado pousa em um rolo, ele pode ocupar duas ou mais posições consecutivas verticalmente. Isso significa que uma única rodada pode resultar em várias instâncias do mesmo símbolo, aparecendo em um rolo. Esses símbolos geralmente vêm em grupos de 2, 3 ou 4 símbolos."
-                                            ]
-                                        },
-                                        "direction": "column",
-                                        "customFormat": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "typeDisplay": "flex",
-                                "direction": "row",
-                                "featureContent": [
-                                    {
-                                        "type": "img",
-                                        "imageType": "big",
-                                        "divMaxWith": "bigMaxWidth",
-                                        "url": [
-                                            "images/Settings/Assets/PRE_BONUS_UK.png"
-                                        ],
-                                        "direction": "row"
-                                    },
-                                    {
-                                        "type": "plural_text",
-                                        "textAlignment": "center",
-                                        "content": {
-                                            "EN": [
-                                                "- 25 FREE SPINS with 5x, 3x or 2x multipliers;\n- 20 FREE SPINS with 8x, 5x or 3x multipliers;\n- 15 FREE SPINS with 10x, 8x, or 5x multipliers;\n- 10 FREE SPINS with 15x, 10x, or 8x multipliers;\n- 5 FREE SPINS with 30x, 15x or 10x multipliers;\n- MYSTERY SPINS\n  The game will attribute a random number of:\n  -> Spins: 5, 10, 15, 20, 25.\n  -> Three multipliers: x2, x3, x5, x8, x10, x15, x30.",
-                                                "LOW volatility: Features Stacks of Flash Gordon symbols.",
-                                                "MEDIUM volatility: Showcase stacks of Flash Gordon symbols and other symbol stacks.",
-                                                "HIGH volatility: Can have stacks of all symbols"
-                                            ],
-                                            "IT": [
-                                                "Una SUPER STACK si verifica quando un simbolo è pesantemente impilato. Questo può accadere in qualsiasi fase di gioco. La SUPER STACK progredisce di conseguenza con la volatilità scelta:",
-                                                "Volatilità BASSA: Caratteristiche Stack di simboli di Flash Gordon.",
-                                                "Volatilità MEDIA: Mostra stack di simboli di Flash Gordon e altri stack di simboli.",
-                                                "Volatilità ALTA: Può avere stack di tutti i simboli."
-                                            ],
-                                            "RU": [
-                                                "СУПЕР СТЭК происходит, когда какой-либо символ сильно накапливается. Это может происходить на любой фазе игры. СУПЕР СТЭК прогрессирует соответственно выбранной волатильности:",
-                                                "Низкая волатильность: Характеристики стеков символов Флэш Гордона.",
-                                                "Средняя волатильность: Показывает стеки символов Флэш Гордона и другие стеки символов.",
-                                                "Высокая волатильность: Может иметь стеки всех символов."
-                                            ],
-                                            "FR": [
-                                                "Un SUPER STACK se produit lorsqu'un symbole est fortement empilé. Cela peut se produire à n'importe quelle phase de jeu. Le SUPER STACK progresse en fonction de la volatilité choisie :",
-                                                "Volatilité FAIBLE : Caractéristiques Stacks de symboles Flash Gordon.",
-                                                "Volatilité MOYENNE : Affiche des stacks de symboles Flash Gordon et d'autres stacks de symboles.",
-                                                "Volatilité ÉLEVÉE : Peut avoir des stacks de tous les symboles."
-                                            ],
-                                            "ZH": [
-                                                "当任何符号被大量堆叠时，就会出现SUPER STACK。这可以在任何游戏阶段发生。SUPER STACK随所选择的波动性相应地发展：",
-                                                "低波动性：具有Flash Gordon符号的堆栈特征。",
-                                                "中等波动性：展示Flash Gordon符号和其他符号堆栈。",
-                                                "高波动性：可以有所有符号的堆栈。"
-                                            ],
-                                            "US": [
-                                                "A SUPER STACK occurs when any symbol is heavily stacked. This can occur in any game phase. The SUPER STACK progresses accordingly with the chosen volatility:",
-                                                "LOW volatility: Features Stacks of Flash Gordon symbols.",
-                                                "MEDIUM volatility: Showcase stacks of Flash Gordon symbols and other symbol stacks.",
-                                                "HIGH volatility: Can have stacks of all symbols"
-                                            ],
-                                            "PT": [
-                                                "Uma SUPER STACK ocorre quando qualquer símbolo é empilhado em grande quantidade. Isso pode ocorrer em qualquer fase do jogo. A SUPER STACK progride de acordo com a volatilidade escolhida:",
-                                                "Volatilidade BAIXA: Apresenta pilhas de símbolos do Flash Gordon.",
-                                                "Volatilidade MÉDIA: Mostra pilhas de símbolos do Flash Gordon e outras pilhas de símbolos.",
-                                                "Volatilidade ALTA: Pode ter pilhas de todos os símbolos."
-                                            ]
-                                        },
-                                        "direction": "column",
-                                        "customFormat": ""
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "Title": {
-                    "EN": "SELEZIONE FLASH SPINS",
-                    "RU": "SELEZIONE FLASH SPINS",
-                    "FR": "SELEZIONE FLASH SPINS",
-                    "ZH": "SELEZIONE FLASH SPINS",
-                    "US": "SELEZIONE FLASH SPINS",
-                    "PT": "SELEZIONE FLASH SPINS",
-                    "IT": "SELEZIONE FLASH SPINS"
-                },
-                "sectionType": "Feature",
-                "Type": "Title",
-                "SubSection": [
-                    {
-                        "typeDisplay": "flex",
                         "direction": "column",
                         "justifyContent": "center",
                         "features": [
@@ -2317,43 +1740,60 @@
                                     {
                                         "type": "img",
                                         "imageType": "big",
-                                        "divMaxWith": "bigMaxWidth",
+                                        "divMaxWith": "screenWidth",
                                         "url": [
-                                            "images/Settings/Assets/PRE_BONUS_UK.png"
+                                            "images/Settings/Assets/PAGE_1.png",
+                                            "images/Settings/Assets/PAGE_2.png",
+                                            "images/Settings/Assets/PAGE_3.png"
                                         ],
+                                        "imageWidth": "30%",
+                                        "wrap": "wrap",
                                         "direction": "row"
-                                    },
+                                    }
+                                ]
+                            },
+                            {
+                                "typeDisplay": "flex",
+                                "direction": "column",
+                                "featureContent": [
                                     {
                                         "type": "plural_text",
                                         "textAlignment": "center",
                                         "content": {
                                             "EN": [
-                                                "At the beginning of each spin, a multiplier value is randomly drawn and visually displayed.",
-                                                "This multiplier will consistently overlay the WILD symbol if it lands on a SPECIAL REEL. However, the payout will only occur when a paying WAY intersects with the WILD symbol."
+                                                "When either the BLUE QUEEN or the RED QUEEN symbol lands on the reels, a REEL WILD will appear on the corresponding reel. The BLUE or RED QUEEN can appear on any reel from 1 to 6, and will move from right to left, activating the RESPIN phase. During this feature, the spins are not paid and the outcome depends on where the REEL WILD appears.",
+                                                "\nThe RED QUEEN has a special power. With each new reel movement, the multiplier value will increase by one. For instance, if the RED QUEEN  is on the 6th reel, the multiplier will start at x1 and end at x6. If it is on the 3rd reel, the multiplier will start at x1 and end at x3.",
+                                                "\nThe PURPLE QUEEN can also appear on any reel from 1 to 6. When she lands on the reels, she triggers the RESPIN phase. In the RESPIN phase, new symbols appear on the reels. This can be followed by the RE-ORDER phase, if it rewards the player, which reorganises the reels and symbol positions and can add new symbols."
                                             ],
                                             "IT": [
-                                                "All'inizio di ogni giro, viene estratto casualmente un valore moltiplicatore e visualizzato.",
-                                                "Questo moltiplicatore sovrapporrà costantemente il simbolo WILD se atterra su un RULLO SPECIALE. Tuttavia, il pagamento avverrà solo quando un PERCORSO pagante interseca il simbolo WILD."
+                                                "Quando atterra su uno dei rulli il simbolo della REGINA BLU o della REGINA ROSSA, apparirà un WILD REEL sul rullo corrispondente. La REGINA BLU o ROSSA può apparire su qualsiasi rullo da 1 a 6 e si sposterà da destra a sinistra, attivando la fase di RESPIN. Durante questa funzione, le giocate non vengono pagate e l'esito dipende da dove appare il REEL WILD.",
+                                                "\nLa REGINA ROSSA ha un potere speciale. Con ogni nuovo movimento del rullo, il valore del moltiplicatore aumenterà di uno. Ad esempio, se la REGINA ROSSA è sul sesto rullo, il moltiplicatore partirà da x1 e finirà a x6. Se è sul terzo rullo, il moltiplicatore partirà da x1 e finirà a x3.",
+                                                "\nAnche la REGINA VIOLA può apparire su qualsiasi rullo da 1 a 6. Quando atterra sui rulli, attiva la fase di RESPIN. Nella fase di RESPIN, nuovi simboli appaiono sui rulli. Questo può essere seguito dalla fase di RE-ORDINE, se premia il giocatore, che riorganizza i rulli e le posizioni dei simboli e può aggiungere nuovi simboli."
                                             ],
                                             "RU": [
-                                                "В начале каждого спина случайным образом выбирается значение множителя и визуально отображается.",
-                                                "Этот множитель всегда будет наложен на символ WILD, если он попадет на СПЕЦИАЛЬНЫЙ БАРАБАН. Однако выплата произойдет только тогда, когда платный ПУТЬ пересечется со символом WILD."
+                                                "Когда на барабанах появляется символ СИНЕЙ КОРОЛЕВЫ или КРАСНОЙ КОРОЛЕВЫ, на соответствующем барабане появится WILD REEL. СИНЯЯ или КРАСНАЯ КОРОЛЕВА могут появиться на любом барабане с 1 по 6 и будут перемещаться справа налево, активируя фазу RESPIN. Во время этой функции спины не оплачиваются, и результат зависит от того, где появится REEL WILD.",
+                                                "\nУ КРАСНОЙ КОРОЛЕВЫ есть особая сила. С каждым новым движением барабана значение множителя увеличивается на один. Например, если КРАСНАЯ КОРОЛЕВА находится на 6-м барабане, множитель начнется с x1 и закончится на x6. Если она на 3-м барабане, множитель начнется с x1 и закончится на x3.",
+                                                "\nФиолетовая КОРОЛЕВА также может появиться на любом барабане с 1 по 6. Когда она появляется на барабанах, она запускает фазу RESPIN. В фазе RESPIN на барабанах появляются новые символы. Это может быть последовано фазой RE-ORDER, если она вознаграждает игрока, которая переупорядочивает барабаны и положение символов и может добавлять новые символы."
                                             ],
                                             "FR": [
-                                                "Au début de chaque rotation, une valeur de multiplicateur est tirée au hasard et affichée visuellement.",
-                                                "Ce multiplicateur se superposera systématiquement au symbole WILD s'il atterrit sur un ROULEAU SPÉCIAL. Cependant, le paiement ne se produira que lorsque un TRAJET payant croise le symbole WILD."
+                                                "Lorsque le symbole de la REINE BLEUE ou de la REINE ROUGE atterrit sur les rouleaux, un REEL WILD apparaîtra sur le rouleau correspondant. La REINE BLEUE ou ROUGE peut apparaître sur n'importe quel rouleau de 1 à 6, et se déplacera de droite à gauche, activant la phase de RESPIN. Pendant cette fonction, les tours ne sont pas payés et le résultat dépend de l'endroit où apparaît le REEL WILD.",
+                                                "\nLa REINE ROUGE a un pouvoir spécial. À chaque nouveau mouvement du rouleau, la valeur du multiplicateur augmentera d'un. Par exemple, si la REINE ROUGE est sur le 6ème rouleau, le multiplicateur commencera à x1 et se terminera à x6. S'il est sur le 3ème rouleau, le multiplicateur commencera à x1 et se terminera à x3.",
+                                                "\nLa REINE VIOLETTE peut également apparaître sur n'importe quel rouleau de 1 à 6. Lorsqu'elle atterrit sur les rouleaux, elle déclenche la phase de RESPIN. Dans la phase de RESPIN, de nouveaux symboles apparaissent sur les rouleaux. Cela peut être suivi de la phase de RE-ORDRE, si elle récompense le joueur, qui réorganise les rouleaux et les positions des symboles et peut ajouter de nouveaux symboles."
                                             ],
                                             "ZH": [
-                                                "在每次旋转开始时，会随机抽取一个乘数值并以可视方式显示。",
-                                                "如果乘数落在特殊轴上，它将始终覆盖WILD符号。然而，只有在付费路径与WILD符号相交时才会发生支付。"
+                                                "当蓝色女王或红色女王符号落在轴上时，相应的WILD REEL将出现在相应的轴上。蓝色或红色女王可以出现在1到6号轴上的任何一个上，并将从右到左移动，激活RESPIN阶段。在此功能期间，旋转不计算报酬，结果取决于WILD REEL出现的位置。",
+                                                "\n红色女王具有特殊的力量。随着每个新轴移动，乘数值将增加一个。例如，如果红色女王位于第6轴上，则乘数将从x1开始，并以x6结束。如果它位于第3轴上，则乘数将从x1开始，并以x3结束。",
+                                                "\n紫色女王也可以出现在1到6号轴上的任何一个上。当她落在轴上时，她会触发RESPIN阶段。在RESPIN阶段，新的符号会出现在轴上。如果奖励玩家，则可以跟随重新排序阶段，重新组织轴和符号位置，并可以添加新的符号。"
                                             ],
                                             "US": [
-                                                "At the beginning of each spin, a multiplier value is randomly drawn and visually displayed.",
-                                                "This multiplier will consistently overlay the WILD symbol if it lands on a SPECIAL REEL. However, the payout will only occur when a paying WAY intersects with the WILD symbol."
+                                                "When either the BLUE QUEEN or the RED QUEEN symbol lands on the reels, a REEL WILD will appear on the corresponding reel. The BLUE or RED QUEEN can appear on any reel from 1 to 6, and will move from right to left, activating the RESPIN phase. During this feature, the spins are not paid and the outcome depends on where the REEL WILD appears.",
+                                                "\nThe RED QUEEN has a special power. With each new reel movement, the multiplier value will increase by one. For instance, if the RED QUEEN  is on the 6th reel, the multiplier will start at x1 and end at x6. If it is on the 3rd reel, the multiplier will start at x1 and end at x3.",
+                                                "\nThe PURPLE QUEEN can also appear on any reel from 1 to 6. When she lands on the reels, she triggers the RESPIN phase. In the RESPIN phase, new symbols appear on the reels. This can be followed by the RE-ORDER phase, if it rewards the player, which reorganises the reels and symbol positions and can add new symbols."
                                             ],
                                             "PT": [
-                                                "No início de cada rodada, um valor de multiplicador é sorteado aleatoriamente e visualmente exibido.",
-                                                "Este multiplicador irá sobrepor consistentemente o símbolo WILD se ele cair em um ROLO ESPECIAL. No entanto, o pagamento ocorrerá apenas quando um CAMINHO pagante interseccionar com o símbolo WILD."
+                                                "Quando o símbolo da RAINHA AZUL ou da RAINHA VERMELHA pousa nos rolos, um REEL WILD aparecerá no rolo correspondente. A RAINHA AZUL ou VERMELHA pode aparecer em qualquer rolo de 1 a 6 e se moverá da direita para a esquerda, ativando a fase de RESPIN. Durante esta função, as jogadas não são pagas e o resultado depende de onde o REEL WILD aparece.",
+                                                "\nA RAINHA VERMELHA tem um poder especial. A cada novo movimento do rolo, o valor do multiplicador aumentará em um. Por exemplo, se a RAINHA VERMELHA estiver no sexto rolo, o multiplicador começará em x1 e terminará em x6. Se estiver no terceiro rolo, o multiplicador começará em x1 e terminará em x3.",
+                                                "\nA RAINHA ROXA também pode aparecer em qualquer rolo de 1 a 6. Quando ela pousa nos rolos, ela desencadeia a fase de RESPIN. Na fase de RESPIN, novos símbolos aparecem nos rolos. Isso pode ser seguido pela fase de RE-ORDER, se recompensar o jogador, que reorganiza os rolos e as posições dos símbolos e pode adicionar novos símbolos."
                                             ]
                                         },
                                         "direction": "column",
@@ -2386,11 +1826,10 @@
                             {
                                 "typeDisplay": "flex",
                                 "direction": "column",
-                                "divMaxWith": "smallMaxWidth",
                                 "featureContent": [
                                     {
                                         "type": "img",
-                                        "divMaxWith": "smallMaxWidth",
+                                        "divMaxWith": "symbolWidth",
                                         "imageType": "big",
                                         "wrap": "",
                                         "url": [
@@ -2407,7 +1846,6 @@
                             {
                                 "typeDisplay": "flex",
                                 "direction": "column",
-                                "divMaxWith": "smallMaxWidth",
                                 "featureContent": [
                                     {
                                         "type": "plural_text",

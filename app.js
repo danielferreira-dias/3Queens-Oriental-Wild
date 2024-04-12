@@ -434,6 +434,8 @@ function createRuleSection(mainSection, subSection, subContainer) {
                                         rtpValue.textContent = ` ${word.value[currentLanguage][i]}`;
                                         containerRTP.appendChild(rtpValue);
                                         rtpValue.style.textAlign = "center";
+                                        rtpValue.style.fontSize = "3.0rem";
+                                        rtpValue.style.color = mainColor;
                                     }
                                     containerRTP.style.flexDirection = "column";
                                     containerRTP.style.flexWrap = "wrap";
@@ -512,12 +514,13 @@ function createNewSections(mainSection, subSection, subContainer) {
                         contentDiv.classList.add("content-div-class-flex-img");
                         contentDiv.style.flexWrap = feature.wrap;
                         contentDiv.style.flex = 1
-                        contentDiv.style.minWidth = "200px"
+                        contentDiv.style.gap = "40px"
+                        contentDiv.style.width = "100%"
 
                         feature.url.forEach((url) => {
                             const contentDivImage = document.createElement("img");
+
                             contentDivImage.src = url;
-                            contentDivImage.style.width = feature.url.length > 1 ? `calc(100% / ${feature.url.length})` : "auto";
                             contentDivImage.classList.add(feature.divMaxWith);
                             contentDiv.appendChild(contentDivImage);
                         });
@@ -730,20 +733,17 @@ function createbuyBonusSection(mainSection, subSection, subContainer) {
 
                     if (contentDisplay.featureContent[j].type === "img") {
                         contentDiv.classList.add("content-div-class-flex-img");
+                        contentDiv.style.width = "100%"
                         contentDiv.style.flexWrap = contentDisplay.featureContent[j].wrap;
 
                         for (let i = 0; i < contentDisplay.featureContent[j].url.length; i++) {
                             const contentDivImage = document.createElement("img");
                             contentDivImage.src = contentDisplay.featureContent[j].url[i];
-                            let imageCount = contentDisplay.featureContent[j].url.length;
-                            if (imageCount > 1) {
-                                let imageWidth = `calc(100% / ${imageCount})`;
-                                contentDivImage.style.width = imageWidth;
-                            }
-                            if (contentDisplay.featureContent[j].divMaxWith == "bigMaxWidth") {
-                                contentDivImage.classList.add('bigMaxWidth')
-                            } else if (contentDisplay.featureContent[j].divMaxWith == "smallMaxWidth") {
-                                contentDivImage.classList.add('smallMaxWidth')
+                            contentDivImage.style.flex = 1
+                            if (contentDisplay.featureContent[j].divMaxWith == "symbolWidth") {
+                                contentDivImage.classList.add('symbolWidth')
+                            } else if (contentDisplay.featureContent[j].divMaxWith == "screenWidth") {
+                                contentDivImage.classList.add('screenWidth')
                             }
                             contentDiv.appendChild(contentDivImage);
                         }
@@ -767,21 +767,19 @@ function createbuyBonusSection(mainSection, subSection, subContainer) {
                         }
                     } else if (contentDisplay.featureContent[j].type === "img_text") {
                         contentDiv.classList.add("content-div-class-flex-img");
+                        contentDiv.style.width = "100%"
                         contentDiv.style.flexWrap = contentDisplay.featureContent[j].wrap;
 
                         for (let i = 0; i < contentDisplay.featureContent[j].url.length; i++) {
                             const contentDivImage = document.createElement("img");
+                            contentDivImage.style.flex = 1
                             contentDivImage.src = contentDisplay.featureContent[j].url[i];
 
-                            let imageCount = contentDisplay.featureContent[j].url.length;
-                            if (imageCount > 1) {
-                                let imageWidth = `calc(100% / ${imageCount})`;
-                                contentDivImage.style.width = imageWidth;
-                            }
-                            if (contentDisplay.featureContent[j].divMaxWith == "bigMaxWidth") {
-                                contentDivImage.classList.add('bigMaxWidth')
-                            } else if (contentDisplay.featureContent[j].divMaxWith == "smallMaxWidth") {
-                                contentDivImage.classList.add('smallMaxWidth')
+
+                            if (contentDisplay.featureContent[j].divMaxWith == "symbolWidth") {
+                                contentDivImage.classList.add('symbolWidth')
+                            } else if (contentDisplay.featureContent[j].divMaxWith == "screenWidth") {
+                                contentDivImage.classList.add('screenWidth')
                             }
                             contentDiv.appendChild(contentDivImage);
                         }

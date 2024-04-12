@@ -231,9 +231,7 @@ p.sub-container-content-flex {
         font-size: 2rem;
     }
 
-    p {
-        font-size: 1.5rem;
-    }
+  
 
 }
 
@@ -251,6 +249,32 @@ p.sub-container-content-flex {
     h2 {
         font-size: 3rem;
     }
+    p {
+        font-size: 1.5rem;
+    }
+
+    
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 1700px) {
+    .sub-container-grid-line-layout {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+
+    h1 {
+        font-size: 3.5rem;
+    }
+
+    h2 {
+        font-size: 3rem;
+    }
+    p {
+        font-size: 2rem;
+    }
+
+    
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -393,6 +417,15 @@ p.sub-container-content-flex {
     }
 }
 
+@media (min-width: 900px) {
+    .smallMaxWidth{
+        max-width: 100%;
+    }
+    .bigMaxWidth {
+        max-width: 90%;
+    }
+}
+
 
 /* Button Section */
 
@@ -416,3 +449,26 @@ p.sub-container-content-flex {
     }
 }
 
+/* image sizes */
+
+.symbolWidth {
+    width: 150px;
+}
+
+.screenWidth {
+    width: 250px;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width: 900px) {
+    .screenWidth {
+        width: 450px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .symbolWidth {
+        width: 250px;
+    }
+    
+}
