@@ -585,14 +585,14 @@ function createNewSections(mainSection, subSection, subContainer) {
                                 if (dataInfo.specialContent[0][currentLanguage] != null) {
                                     const specialContent = dataInfo.specialContent[0][currentLanguage];
                                     const specialContentDiv = document.createElement("div");
-                                
+
                                     // Iterate over each text item and create a <p> element for it
                                     specialContent.forEach(text => {
                                         const paragraph = document.createElement("p");
                                         paragraph.innerText = text;
                                         specialContentDiv.appendChild(paragraph);
                                     });
-                                
+
                                     // Append the <div> containing the <p> elements to the parent div
                                     valueSpecialContentDiv.appendChild(specialContentDiv);
                                 }
@@ -657,6 +657,8 @@ function createNewSections(mainSection, subSection, subContainer) {
     if (currentLanguage === "IT") wordsToSearch.push("Minima", "Massima");
     searchDynamicParagraphs(wordsToSearch);
 }
+
+
 // Create Button Page
 function createButtonSection(section, subSection, subContainer) {
 
