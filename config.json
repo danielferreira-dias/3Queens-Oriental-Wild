@@ -2120,146 +2120,174 @@
                             {
                                 "typeDisplay": "flex",
                                 "direction": "row",
+                                "divMaxWith": "smallMaxWidth",
                                 "featureContent": [
                                     {
                                         "type": "divContent",
-                                        "numberOfDivs": 5,
+                                        "numberOfDivs": 6,
                                         "direction": "row",
                                         "divContentBorder": [
                                             {
                                                 "direction": "column",
                                                 "contentInside": {
                                                     "EN": [
-                                                        "GOLDEN BET 7X BET"
+                                                        "SUPER FREE SPINS 500x BET"
                                                     ],
                                                     "IT": [
-                                                        "GOLDEN BET 7X PUNTATA"
+                                                        "SUPER FREE SPINS 500x PUNTATA"
                                                     ],
                                                     "RU": [
-                                                        "GOLDEN BET 7X СТНВКН "
+                                                        "SUPER FREE SPINS 500x СТАВКА "
                                                     ],
                                                     "FR": [
-                                                        "GOLDEN BET 7X MISE"
+                                                        "SUPER FREE SPINS 500x MISE"
                                                     ],
                                                     "ZH": [
-                                                        "GOLDEN BET 7X 倝投注"
+                                                        "SUPER FREE SPINS 500x 倍投注"
                                                     ],
                                                     "US": [
-                                                        "GOLDEN BET 7X BET"
+                                                        "SUPER FREE SPINS 500x BET"
                                                     ],
                                                     "PT": [
-                                                        "GOLDEN BET 7X APOSTA"
+                                                        "SUPER FREE SPINS 500x APOSTA"
                                                     ]
                                                 },
-                                                "content": "RTP - 93,75%"
+                                                "content": "RTP - 93,47%"
                                             },
                                             {
                                                 "direction": "column",
                                                 "contentInside": {
                                                     "EN": [
-                                                        "6 SCATTERS 400X BET"
+                                                        "FREE SPINS 100x BET"
                                                     ],
                                                     "IT": [
-                                                        "6 SCATTERS 400X PUNTATA"
+                                                        "FREE SPINS 100x PUNTATA"
                                                     ],
                                                     "RU": [
-                                                        "6 SCATTERS 400X СТНВКН "
+                                                        "FREE SPINS 100x СТАВКА "
                                                     ],
                                                     "FR": [
-                                                        "6 SCATTERS 400X MISE"
+                                                        "FREE SPINS 100x MISE"
                                                     ],
                                                     "ZH": [
-                                                        "6 SCATTERS 400X 倝投注"
+                                                        "FREE SPINS 100x 倍投注"
                                                     ],
                                                     "US": [
-                                                        "6 SCATTERS 400X BET"
+                                                        "FREE SPINS 100x BET"
                                                     ],
                                                     "PT": [
-                                                        "6 SCATTERS 400X APOSTA"
+                                                        "FREE SPINS 100x APOSTA"
                                                     ]
                                                 },
-                                                "content": "RTP - 93,48%"
+                                                "content": "RTP - 93,35%"
                                             },
                                             {
                                                 "direction": "column",
                                                 "contentInside": {
                                                     "EN": [
-                                                        "5 SCATTERS 200X BET"
+                                                        "GOLDEN BET 9x BET"
                                                     ],
                                                     "IT": [
-                                                        "5 SCATTERS 200X PUNTATA"
+                                                        "GOLDEN BET 9x PUNTATA"
                                                     ],
                                                     "RU": [
-                                                        "5 SCATTERS 200X СТНВКН "
+                                                        "GOLDEN BET 9x СТАВКА "
                                                     ],
                                                     "FR": [
-                                                        "5 SCATTERS 200X MISE"
+                                                        "GOLDEN BET 9x MISE"
                                                     ],
                                                     "ZH": [
-                                                        "5 SCATTERS 200X 倝投注"
+                                                        "GOLDEN BET 9x 倍投注"
                                                     ],
                                                     "US": [
-                                                        "5 SCATTERS 200X BET"
+                                                        "GOLDEN BET 9x BET"
                                                     ],
                                                     "PT": [
-                                                        "5 SCATTERS 200X APOSTA"
+                                                        "GOLDEN BET 9x APOSTA"
                                                     ]
                                                 },
-                                                "content": "RTP - 93,50%"
+                                                "content": "RTP - 93,62%"
                                             },
                                             {
                                                 "direction": "column",
                                                 "contentInside": {
                                                     "EN": [
-                                                        "4 SCATTERS 100X BET"
+                                                        "RED QUEEN 50x BET"
                                                     ],
                                                     "IT": [
-                                                        "4 SCATTERS 100X PUNTATA"
+                                                        "RED QUEEN 50x PUNTATA"
                                                     ],
                                                     "RU": [
-                                                        "4 SCATTERS 100X СТНВКН "
+                                                        "RED QUEEN 50x СТАВКА "
                                                     ],
                                                     "FR": [
-                                                        "4 SCATTERS 100X MISE"
+                                                        "RED QUEEN 50x MISE"
                                                     ],
                                                     "ZH": [
-                                                        "4 SCATTERS 100X 倝投注"
+                                                        "RED QUEEN 50x 倍投注"
                                                     ],
                                                     "US": [
-                                                        "4 SCATTERS 100X BET"
+                                                        "RED QUEEN 50x BET"
                                                     ],
                                                     "PT": [
-                                                        "4 SCATTERS 100X APOSTA"
+                                                        "RED QUEEN 50x APOSTA"
                                                     ]
                                                 },
-                                                "content": "RTP - 93,59%"
+                                                "content": "RTP - 93,56%"
                                             },
                                             {
                                                 "direction": "column",
                                                 "contentInside": {
                                                     "EN": [
-                                                        "LUCKY SCATTERS 300X BET"
+                                                        "BLUE QUEEN 50x BET"
                                                     ],
                                                     "IT": [
-                                                        "LUCKY SCATTERS 300X PUNTATA"
+                                                        "BLUE QUEEN 50x PUNTATA"
                                                     ],
                                                     "RU": [
-                                                        "LUCKY SCATTERS 300X СТНВКН "
+                                                        "BLUE QUEEN 50x СТАВКА "
                                                     ],
                                                     "FR": [
-                                                        "LUCKY SCATTERS 300X MISE"
+                                                        "BLUE QUEEN 50x MISE"
                                                     ],
                                                     "ZH": [
-                                                        "LUCKY SCATTERS 300X 倝投注"
+                                                        "BLUE QUEEN 50x 倍投注"
                                                     ],
                                                     "US": [
-                                                        "LUCKY SCATTERS 300X BET"
+                                                        "BLUE QUEEN 50x BET"
                                                     ],
                                                     "PT": [
-                                                        "LUCKY SCATTERS 300X APOSTA"
+                                                        "BLUE QUEEN 50x APOSTA"
                                                     ]
                                                 },
-                                                "content": "RTP - 93,45%"
+                                                "content": "RTP - 93,65%"
+                                            },
+                                            {
+                                                "direction": "column",
+                                                "contentInside": {
+                                                    "EN": [
+                                                        "PURPLE QUEEN 50x BET"
+                                                    ],
+                                                    "IT": [
+                                                        "PURPLE QUEEN 50x PUNTATA"
+                                                    ],
+                                                    "RU": [
+                                                        "PURPLE QUEEN 50x СТАВКА "
+                                                    ],
+                                                    "FR": [
+                                                        "PURPLE QUEEN 50x MISE"
+                                                    ],
+                                                    "ZH": [
+                                                        "PURPLE QUEEN 50x 倍投注"
+                                                    ],
+                                                    "US": [
+                                                        "PURPLE QUEEN 50x BET"
+                                                    ],
+                                                    "PT": [
+                                                        "PURPLE QUEEN 50x APOSTA"
+                                                    ]
+                                                },
+                                                "content": "RTP - 93,56%"
                                             }
                                         ]
                                     }
